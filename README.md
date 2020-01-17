@@ -1,6 +1,8 @@
 # intel_30_days_of_Udacity
 Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challenge  
-* Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/   
+* Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/     
+
+[image1]: ./images/IntelEdgeAIFoundationCourse.png    
 
 Collaborators:  
 
@@ -12,4 +14,17 @@ Collaborators:
 | [Halwai Aftab Hasan](https://github.com/ahkhalwai) | Halwai Aftab Hasan |
 
 ### Day 1 : 17/01/2020 
-#### Polarbeargo
+#### Polarbeargo  
+* Finish 1st reading the Intel® Edge AI Scholarship Foundation Course Nanodegree Program start 2nd reading.    
+![][image1]  
+* Organise the Intel® Edge AI Scholarship Foundation Course Nanodegree Program material and scripts as a new repo for future usage.  
+* Start my lovely 30 day intel_30_days_of_Udacity with [Sarah Majors](https://github.com/sfmajors373), [Halwai Aftab Hasan](https://github.com/ahkhalwai) and [Harkirat Singh](https://github.com/Harkirat155)  
+* Reading C plus plus Nanodegree Program and Computer Vision Nanodegree program extracurricular.
+* Reading a lot of references from Udacity and my c plus plus Nanodegree program mentor Renaud who is extremely awsome cool:
+    * [psutil](https://github.com/giampaolo/psutil)
+    * [htop](https://github.com/hishamhm/htop)
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)
+
+
+
