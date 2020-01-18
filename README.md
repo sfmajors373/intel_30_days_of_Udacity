@@ -40,3 +40,4 @@ Collaborators:
 * Reading https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html
 * Reading Leetcode and Kaggle discussion.
 * Continue reading Google cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and enroll in Architecting Hybrid Cloud Infrastructure with Anthos Google Cloud.
+* Participating @Pranjal Chaubey Fire trading study group it’s super awsome fun!!
