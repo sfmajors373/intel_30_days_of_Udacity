@@ -26,5 +26,16 @@ Collaborators:
     * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)
     * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)
 
+### Day 2 : 18/01/2020 
+#### Polarbeargo 
 
-
+* Rereading lesson 3 model optimize section 15 Cutting parts of model and document [Cutting parts of model](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Cutting_Model.html)  
+* Reading C plus plus Nanodegree program lesson 2 section 3 overview of memory type which its writing is too beautiful so I spent a lot of time reading it again.
+* Reading Computer Vision Nanodegree program extracurricular.
+* Continue implement system monitor project with following resources reference:  
+    * [psutil](https://github.com/giampaolo/psutil)  
+    * [htop](https://github.com/hishamhm/htop)  
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)  
+* Reading Leetcode and Kaggle discussion.
+* Continue reading Google cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and enroll in Architecting Hybrid Cloud Infrastructure with Anthos Google Cloud.
