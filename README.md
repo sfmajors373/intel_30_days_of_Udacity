@@ -36,6 +36,7 @@ Collaborators:
     * [psutil](https://github.com/giampaolo/psutil)  
     * [htop](https://github.com/hishamhm/htop)  
     * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
-    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)  
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/) 
+* Reading https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html
 * Reading Leetcode and Kaggle discussion.
 * Continue reading Google cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and enroll in Architecting Hybrid Cloud Infrastructure with Anthos Google Cloud.
