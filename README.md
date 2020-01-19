@@ -3,6 +3,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 * Follow Udacity Git Commit Message Style Guide: https://udacity.github.io/git-styleguide/     
 
 [image1]: ./images/IntelEdgeAIFoundationCourse.png    
+[image2]: ./images/LUA.gif  
 
 Collaborators:  
 
@@ -58,8 +59,9 @@ Collaborators:
     * [htop](https://github.com/hishamhm/htop)  
     * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
     * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/) 
-* Reading https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html and run LOVE2d.LUA game:  
+* Reading https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html and run LOVE2d.LUA game:
 ![][image2]
+* Fix push.lua:101: attempt to call field 'getPixelScale' (a nil value)  
 * Reading and practice Leetcode and Kaggle discussion.
 * Continue organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage. 
 * Planning and think of the Intel® Edge AI Scholarship group project.
