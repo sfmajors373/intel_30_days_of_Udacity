@@ -46,7 +46,7 @@ Collaborators:
 ### Day 3 : 19/01/2020 
 #### Polarbeargo 
 
-* Rereading lesson 3 model optimize section 12 Lesson Glossary and deferences: 
+* Rereading lesson 3 model optimize section 12 Lesson Glossary and references: 
    * [onnx/models](https://github.com/onnx/models)
    * [onnx/community](https://github.com/onnx/onnx/tree/master/community)
    * [onnx/working-group](https://github.com/onnx/onnx/blob/master/community/working-groups.md) 
