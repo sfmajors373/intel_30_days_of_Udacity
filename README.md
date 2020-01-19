@@ -41,3 +41,25 @@ Collaborators:
 * Reading Leetcode and Kaggle discussion.
 * Continue reading Google cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and enroll in Architecting Hybrid Cloud Infrastructure with Anthos Google Cloud.
 * Participating @Pranjal Chaubey Fire trading study group it’s super awsome fun!!
+
+### Day 3 : 19/01/2020 
+#### Polarbeargo 
+
+* Rereading lesson 3 model optimize section 12 Lesson Glossary and deferences: 
+   * [onnx/models](https://github.com/onnx/models)
+   * [onnx/community](https://github.com/onnx/onnx/tree/master/community)
+   * [onnx/working-group](https://github.com/onnx/onnx/blob/master/community/working-groups.md) 
+   * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville - An MIT Press book](http://www.deeplearningbook.org/)
+* Reading C plus plus Nanodegree program lesson 2 overview of memory type section 4 Cache Memory and references:
+   * [Peter Norvig](http://norvig.com/21-days.html#answers)
+* Reading Computer Vision Nanodegree program extracurricular 4. Text Sentiment Analysis.
+* Continue implement system monitor project with following resources reference:  
+    * [psutil](https://github.com/giampaolo/psutil)  
+    * [htop](https://github.com/hishamhm/htop)  
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/) 
+* Reading https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html and run LOVE2d.LUA game:  
+![][image2]
+* Reading and practice Leetcode and Kaggle discussion.
+* Continue organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage. 
+* Planning and think of the Intel® Edge AI Scholarship group project.
