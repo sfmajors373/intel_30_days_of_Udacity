@@ -72,7 +72,7 @@ Collaborators:
 * Rereading lesson 4 The Inference Engine section 4 Using the Inference Engine with an IR and documents: 
    * [ie_api.IECore Class Reference](https://docs.openvinotoolkit.org/latest/classie__api_1_1IECore.html)
    * [ie_api.IENetwork Class Reference](https://docs.openvinotoolkit.org/latest/classie__api_1_1IENetwork.html)
-   * [onnx/working-group](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Deep_Learning_Inference_Engine_DevGuide.html) 
+   * [Deep Learning Inference Engine DevGuide](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Deep_Learning_Inference_Engine_DevGuide.html) 
    * [Supported Devices](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_supported_plugins_Supported_Devices.html)
    * [IE Python API](https://docs.openvinotoolkit.org/latest/ie_python_api.html)
 * Reading C plus plus Nanodegree program lesson 2 overview of memory type section 4 Cache Memory and references:
