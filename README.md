@@ -27,6 +27,18 @@ Collaborators:
     * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)
     * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)
 
+### Day 1 : 20/01/2020 
+#### ahkhalwai
+
+* Taken the pledge today and join with [Sarah Majors](https://github.com/sfmajors373),  [Hsin Wen Chang](https://github.com/Polarbeargo) and [Harkirat Singh](https://github.com/Harkirat155) on 30 days udacity challenge :).
+* I started my day with creating a local meetup form for #sg_pune channel, and it's successfully created so only Pune region can fill that form for Pune local meetup :slightly_smiling_face: 
+       https://www.questionpro.com/t/AP7hLZgLwe
+* Then I move back to the Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 3 - The Model Optimizer, where I start with an introduction, The model optimizer and some cool documentation on the model optimizer https://docs.openvinotoolkit.org/latest/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html
+* Then move to Optimization Techniques and it's documentation :slightly_smiling_face: https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Model_Optimization_Techniques.html
+* Today I complete up to 3.1, 3.2, 3.3 lesson of The Model Optimizer. 
+Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forward to the finalize the local meetup Date, Time and Location.
+* Working on the Intel® Edge AI Scholarship Foundation Course Nanodegree Program material and scripts as a new repo for future usage provided by @Bearbear 
+
 ### Day 2 : 18/01/2020 
 #### Polarbeargo 
 
