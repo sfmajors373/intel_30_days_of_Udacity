@@ -37,7 +37,7 @@ Collaborators:
 * Then move to Optimization Techniques and it's documentation :slightly_smiling_face: https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Model_Optimization_Techniques.html
 * Today I complete up to 3.1, 3.2, 3.3 lesson of The Model Optimizer. 
 Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forward to the finalize the local meetup Date, Time and Location.
-* Working on the Intel® Edge AI Scholarship Foundation Course Nanodegree Program material and scripts as a new repo for future usage provided by @Bearbear 
+* Working on the Intel® Edge AI Scholarship Foundation Course Nanodegree Program material and scripts provided by @Bearbear 
 
 ### Day 2 : 18/01/2020 
 #### Polarbeargo 
