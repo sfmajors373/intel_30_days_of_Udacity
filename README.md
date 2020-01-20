@@ -65,3 +65,26 @@ Collaborators:
 * Reading and practice Leetcode and Kaggle discussion.
 * Continue organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage. 
 * Planning and think of the Intel® Edge AI Scholarship group project.
+
+### Day 4 : 20/01/2020 
+#### Polarbeargo 
+
+* Rereading lesson 4 The Inference Engine section 4 Using the Inference Engine with an IR and documents: 
+   * [ie_api.IECore Class Reference](https://docs.openvinotoolkit.org/latest/classie__api_1_1IECore.html)
+   * [ie_api.IENetwork Class Reference](https://docs.openvinotoolkit.org/latest/classie__api_1_1IENetwork.html)
+   * [onnx/working-group](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Deep_Learning_Inference_Engine_DevGuide.html) 
+   * [Supported Devices](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_supported_plugins_Supported_Devices.html)
+   * [IE Python API](https://docs.openvinotoolkit.org/latest/ie_python_api.html)
+* Reading C plus plus Nanodegree program lesson 2 overview of memory type section 4 Cache Memory and references:
+   * [Peter Norvig](http://norvig.com/21-days.html#answers)
+* Reading Computer Vision Nanodegree program extracurricular 4. Text Sentiment Analysis section 14 Understanding Neural Noise.
+* Continue implement linux_parser.cpp in system monitor project with following resources reference:  
+    * [psutil](https://github.com/giampaolo/psutil)  
+    * [htop](https://github.com/hishamhm/htop)  
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/) 
+* Planning implement [Assignment 0: “Pong, The AI Update”](https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html)
+* Continue to reading and implement Google cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP to Running AI models on Kubeflow and Architecting Hybrid Cloud Infrastructure with Anthos Google Cloud to The Service Mesh Control-Plane.
+* Reading and practice Leetcode and Kaggle discussion.
+* Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage. 
+* Planning and think of the Intel® Edge AI Scholarship group project.
