@@ -100,3 +100,25 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Reading and practice Leetcode and Kaggle discussion.
 * Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage. 
 * Planning and think of the Intel® Edge AI Scholarship group project.
+
+### Day 5 : 21/01/2020 
+#### Polarbeargo 
+
+* Rereading lesson 4 The Inference Engine section 7 Sending Inference Requests to the IE and section 8 Asynchronous Requests: 
+   * [Executable Network documentation](https://docs.openvinotoolkit.org/latest/classie__api_1_1ExecutableNetwork.html)
+   * [Infer Request documentation](https://docs.openvinotoolkit.org/latest/classie__api_1_1InferRequest.html)
+   * [integrating the inference engine into an application](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Integrate_with_customer_application_new_API.html) 
+* Reading C plus plus Nanodegree program lesson 2 overview of memory type section 5 Virtual Memory.
+* Reading Computer Vision Nanodegree program extracurricular 4. Text Sentiment Analysis section 16 Understanding Inefficiencies in our Network.
+* Continue to implement linux_parser.cpp in system monitor project with following resources reference:  
+    * [psutil](https://github.com/giampaolo/psutil)  
+    * [htop](https://github.com/hishamhm/htop)  
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/) 
+* Planning implement [Assignment 0: “Pong, The AI Update”](https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html) TODO task:
+   * Set player 2 is an AI-controlled paddle, it will try to deflect the ball at all times.
+   * Implement logic that determines how to keep the paddle moving in relation to the ball.
+* Continue to reading and implement Coursera Google cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP to Running AI models on Kubeflow and Architecting Hybrid Cloud Infrastructure with Anthos Google Cloud to the Request Flow in the Service Mesh, planning enroll time for Architecting with Google Kubernetes Engine.
+* Reading and practice Leetcode and Kaggle discussion.
+* Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group. 
+* Planning and think of the Intel® Edge AI Scholarship group project with the study group.
