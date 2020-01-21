@@ -55,6 +55,17 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Continue reading Google cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and enroll in Architecting Hybrid Cloud Infrastructure with Anthos Google Cloud.
 * Participating @Pranjal Chaubey Fire trading study group it’s super awsome fun!!
 
+### Day 2 : 21/01/2020 
+#### ahkhalwai
+
+* Recall the Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 3 - The Model Optimizer, where I start with an introduction, The model optimizer and some cool documentation on the model optimizer https://docs.openvinotoolkit.org/latest/_docs_MO_DG_Deep_Learning_Model_Optimizer_DevGuide.html
+* And Optimization Techniques and it's documentation Which is up to 3.1, 3.2, 3.3 lesson of The Model Optimizer.  https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_Model_Optimization_Techniques.html
+* Continue by next lesson which is 3.4 supported framework and 3.5 intermediate representations   Gone through all supported framework but I found, ONNX framework is very useful because of last scholarship taught me Pytorch, Thanks Udacity for that :slightly_smiling_face:. 
+* In the Intermediate Representations lesson, I found more in-depth data on each of the layers themselves which are provided already in the course. https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_IRLayersCatalogSpec.html
+* Collect all the responses and form a team (@Vikas Bhandary@Astha Adhikari@Jyoti Goyal@Nimisha Wagle@Prabin Shrestha Phoenix@zuu) for finalizing the #sg_nepal Local Meetup in the upcoming days.
+* Similarly, I got very good responses from #sg_mumbai as well so I form a team (@rinki nag@Shivam Raisharma@sarthak ahir@Vivek@cibaca@adanai) for them as well and soon finalize everything.
+* Reading smart city architecture for NLP project :slightly_smiling_face:
+
 ### Day 3 : 19/01/2020 
 #### Polarbeargo 
 
