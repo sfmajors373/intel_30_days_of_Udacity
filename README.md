@@ -133,3 +133,20 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Reading and practice Leetcode and Kaggle discussion.
 * Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group. 
 * Planning and think of the Intel® Edge AI Scholarship group project with the study group.
+
+### Day 6 : 22/01/2020 
+#### Polarbeargo 
+
+* Rereading lesson 4 The Inference Engine section 9 Inference Requests, 10 Handling Results, 14 Integrate into an App.
+* Reading C plus plus Nanodegree program lesson 3 variables and memory section 1 The Process Memory Model.
+* Reading Computer Vision Nanodegree program extracurricular 4. Text Sentiment Analysis section 18 Mini project.
+* Continue to implement function User read and return the user associated with a process, function UpTime read and return the uptime of a process and fix bugs in linux_parser.cpp with following resources reference:  
+    * [psutil](https://github.com/giampaolo/psutil)  
+    * [htop](https://github.com/hishamhm/htop)  
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/) 
+* Implement [Assignment 0: “Pong, The AI Update”](https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html) task set player 2 is an AI-controlled paddle, it will try to deflect the ball at all times. 
+* Finished Hybrid Cloud Infrastructure Foundations with Anthos.
+![][image3]
+* Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group. 
+* Planning and think of the Intel® Edge AI Scholarship group project with the study group.
