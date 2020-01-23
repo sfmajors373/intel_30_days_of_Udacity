@@ -127,6 +127,13 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 ### Day 4 : 23/01/2020 
 #### ahkhalwai
 
+* Not Well Today, suffer from Teeth Pain, need some rest still give some time for studies.  
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 3 - The Model Optimizer, 3.5 Using the Model Optimizer with Caffe Models and 3.6 Exercise: Convert a Caffe Model
+* I successfully Converting Caffe Models :slightly_smiling_face: in udacity workspace and then I push to GitHub which is @Bearbear provided me :slightly_smiling_face: https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_Caffe.html
+      https://github.com/Polarbeargo/Intel-Edge-AI-Scholarship-Foundation-Course-Nanodegree-Program
+* Back to my English Grammar and Style course on EDX, Continue with Week 2:- Sentences, Structure of patterns, sentences, phrases, and clauses :slightly_smiling_face: and many activities there so it helps me for improving my gammer 
+       https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+       
 ### Day 5 : 21/01/2020 
 #### Polarbeargo 
 
