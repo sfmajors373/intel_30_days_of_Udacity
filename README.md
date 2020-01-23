@@ -174,5 +174,12 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 ### Day 7 : 23/01/2020 
 #### Polarbeargo 
 
+* Think of Instructor  Michael Virgo's lecture in lesson 4 The Inference Engine section 9 Inference Requests, 10 Handling Results, 14 Integrate into an App.
+* Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group.
+* Continue to reading Hybrid Cloud Service Mesh with Anthos to Incremental mTLS in the Service Mesh and Hybrid Cloud Multi-Cluster with Anthos to Naming and Security for Multi-Cluster Service Mesh. Receive Encourage letter from Coursera told me don't give up. It's very warm while these times.  
+![][image4]  
+* Reading C plus plus Nanodegree program lesson 3 variables and memory section 1 The Process Memory Model, I super like Professor Andreas Haya explains the The Process Memory Model and the image of address space.
+
+
 ### Day 7 : 26/01/2020 
 #### ahkhalwai 
