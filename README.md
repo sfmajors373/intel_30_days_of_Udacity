@@ -123,6 +123,9 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage. 
 * Planning and think of the Intel® Edge AI Scholarship group project.
 
+### Day 4 : 23/01/2020 
+#### ahkhalwai
+
 ### Day 5 : 21/01/2020 
 #### Polarbeargo 
 
@@ -145,6 +148,9 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group. 
 * Planning and think of the Intel® Edge AI Scholarship group project with the study group.
 
+### Day 5 : 24/01/2020 
+#### ahkhalwai
+
 ### Day 6 : 22/01/2020 
 #### Polarbeargo 
 
@@ -161,3 +167,12 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 ![][image3]
 * Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group. 
 * Planning and think of the Intel® Edge AI Scholarship group project with the study group.
+
+### Day 6 : 25/01/2020 
+#### ahkhalwai
+
+### Day 7 : 23/01/2020 
+#### Polarbeargo 
+
+### Day 7 : 26/01/2020 
+#### ahkhalwai 
