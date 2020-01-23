@@ -4,7 +4,8 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 
 [image1]: ./images/IntelEdgeAIFoundationCourse.png    
 [image2]: ./images/LUA.gif  
-[image3]: ./images/Anthos.png   
+[image3]: ./images/Anthos.png  
+[image4]: ./images/encourage.jpeg 
 
 Collaborators:  
 
