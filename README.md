@@ -90,6 +90,16 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Continue organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage. 
 * Planning and think of the Intel® Edge AI Scholarship group project.
 
+### Day 3 : 22/01/2020 
+#### ahkhalwai
+
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 3 - The Model Optimizer, 3.5 Using the Model Optimizer with TensorFlow Models and 3.6 Exercise: Convert a TF Model
+* I successfully Converting TensorFlow Models :slightly_smiling_face: in udacity workspace and then I push to GitHub which is @Bearbear provided me :slightly_smiling_face: https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html
+      https://github.com/Polarbeargo/Intel-Edge-AI-Scholarship-Foundation-Course-Nanodegree-Program
+* Finalize the Day, Time and Location for #sg_mumbai Local Meetup by this Saturday :slightly_smiling_face: 
+* Back to my English Grammar and Style course on EDX, where today I start with Week 2:- Sentences In this week i start with Part of Speech and classes :slightly_smiling_face: and many activities there so it helps me for improving my gammer 
+       https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+
 ### Day 4 : 20/01/2020 
 #### Polarbeargo 
 
