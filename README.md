@@ -204,6 +204,6 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
     * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)
 * Planing [Assignment 0: “Pong, The AI Update”](https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html) task 2 Implement logic that determines how to keep the paddle moving in relation to the ball separate 2 function moveUp() and moveDown(). 
 * Continue to Implement and reading Hybrid Cloud Service Mesh with Anthos and Hybrid Cloud Multi-Cluster with Anthos quiz and lab
-* Watching  
-![Future of Robotics with Sebastian Thrun and Rodney Brooks - Udacity Thought Leader Series](https://www.youtube.com/watch?v=0XGm2WDMuUM&list=LLPOagtxXeFS3bcjfs63Qzbg&index=2&t=6s) feel very nurturing:D!
-I hope every night before falling asleep, I can feel wow those lectures are super fun!:D
+* Watching   
+[![Future of Robotics with Sebastian Thrun and Rodney Brooks - Udacity Thought Leader Series](https://img.youtube.com/vi/0XGm2WDMuUM/0.jpg)](https://youtu.be/0XGm2WDMuUM)   
+feel very nurturing:D! I hope every night before falling asleep, I can feel wow those lectures are super fun!:D
