@@ -191,3 +191,19 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 
 ### Day 7 : 26/01/2020 
 #### ahkhalwai 
+
+### Day 8 : 24/01/2020 
+#### Polarbeargo 
+
+* Reading C plus plus Nanodegree program lesson 3 variables and memory section 3 Automatic Memory Allocation (The Stack).
+* Reading Computer Vision Nanodegree program extracurricular 5. Fully Convolutional Networks & Semantic Segmentation to section 13 IOU Example.
+* Fixing error in process.h, process.cpp and linux_parser.cpp with following resources reference:
+    * [psutil](https://github.com/giampaolo/psutil)
+    * [htop](https://github.com/hishamhm/htop)
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)
+* Planing [Assignment 0: “Pong, The AI Update”](https://docs.cs50.net/games/2020/x/assignments/0/assignment0.html) task 2 Implement logic that determines how to keep the paddle moving in relation to the ball separate 2 function moveUp() and moveDown(). 
+* Continue to Implement and reading Hybrid Cloud Service Mesh with Anthos and Hybrid Cloud Multi-Cluster with Anthos quiz and lab
+* Watching  
+![Future of Robotics with Sebastian Thrun and Rodney Brooks - Udacity Thought Leader Series](https://www.youtube.com/watch?v=0XGm2WDMuUM&list=LLPOagtxXeFS3bcjfs63Qzbg&index=2&t=6s) feel very nurturing:D!
+I hope every night before falling asleep, I can feel wow those lectures are super fun!:D
