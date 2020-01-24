@@ -159,6 +159,13 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 ### Day 5 : 24/01/2020 
 #### ahkhalwai
 
+* Complete The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 3- The Model Optimizer and push to Intel-Edge-AI-Scholarship-Foundation-Course-Nanodegree-Program repo. https://github.com/Polarbeargo/Intel-Edge-AI-Scholarship-Foundation-Course-Nanodegree-Program
+* English Grammar and Style course on EDX, Complete the Week 2:- Sentences, Common sentence-level problems, Activity, and Quiz.
+       https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+* Learn to give Pull request from Github Desktop Thanks @Bearbear @Sarah Majors :slightly_smiling_face: 
+* My teeth now bit fine :slightly_smiling_face: 
+* Looking forward to the #sg_mumbai Local Meetup by tomorrow :slightly_smiling_face: 
+
 ### Day 6 : 22/01/2020 
 #### Polarbeargo 
 
@@ -208,3 +215,6 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Watching   
 [![Future of Robotics with Sebastian Thrun and Rodney Brooks - Udacity Thought Leader Series](https://img.youtube.com/vi/0XGm2WDMuUM/0.jpg)](https://youtu.be/0XGm2WDMuUM)   
 feel very nurturing:D! I hope every night before falling asleep, I can feel wow those lectures are super fun!:D
+
+### Day 8 : 27/01/2020 
+#### ahkhalwai 
