@@ -187,6 +187,11 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 ### Day 6 : 25/01/2020 
 #### ahkhalwai
 
+* Repeat The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 3- The Model Optimizer, Custom Layer and Exercise
+* Solving problem based on Is-ness, and-ness, listlike grammer 
+* Attend Mumbai local meetup #sg_mumbai and no one attended except @Vivek, @Brenda.Udacity @Grace.Udacity note it down this! and they are saying that local meetup is for just information.
+* Attended Virtual Meetup #sg_nepal and #sg_spaic 
+
 ### Day 7 : 23/01/2020 
 #### Polarbeargo 
 
