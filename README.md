@@ -218,3 +218,18 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 8 : 27/01/2020 
 #### ahkhalwai 
+
+### Day 9 : 25/01/2020 
+#### Polarbeargo 
+
+* Reading C plus plus Nanodegree program lesson 3 variables and memory section 3 Automatic Memory Allocation (The Stack).
+* Fixing error in system.h, system.cpp, processor.cpp, processor.h, process.h, and process.cpp with following resources reference:
+    * [psutil](https://github.com/giampaolo/psutil)
+    * [htop](https://github.com/hishamhm/htop)
+    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)
+    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)
+* Received 1st project review from  C plus plus Nanodegree program has a lot of references and amazing code review after reading my review, I'm very exciting, happy and feel very grateful. Thank you Udacity reviewer T.T...!
+
+* Finished Implement and reading Hybrid Cloud Service Mesh with Anthos and Hybrid Cloud Multi-Cluster with Anthos quiz and lab.  
+![][image5]  
+* Reading and implement Leetcode and Kaggle discussion.
