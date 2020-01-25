@@ -6,6 +6,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image2]: ./images/LUA.gif  
 [image3]: ./images/Anthos.png  
 [image4]: ./images/encourage.jpeg 
+[image5]: ./images/gcpAnthos.png  
 
 Collaborators:  
 
@@ -228,8 +229,8 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
     * [htop](https://github.com/hishamhm/htop)
     * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)
     * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)
-* Received 1st project review from  C plus plus Nanodegree program has a lot of references and amazing code review after reading my review, I'm very exciting, happy and feel very grateful. Thank you Udacity reviewer T.T...!
-
+* Received 1st project review from  C plus plus Nanodegree program has a lot of references and amazing code review after reading my review, I'm very exciting, happy and feel very grateful. Thank you Udacity reviewer T.T...!  
 * Finished Implement and reading Hybrid Cloud Service Mesh with Anthos and Hybrid Cloud Multi-Cluster with Anthos quiz and lab.  
 ![][image5]  
 * Reading and implement Leetcode and Kaggle discussion.
+* Planning and think of the Intel® Edge AI Scholarship group project with the study group.
