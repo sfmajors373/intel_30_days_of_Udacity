@@ -193,8 +193,10 @@ Collect all responses for the local meetup of #sg_mumbai #sg_nepal, looking forw
 * Solving problem based on Is-ness, and-ness, listlike grammer 
 * Attend Mumbai local meetup #sg_mumbai and no one attended except @Vivek, @Brenda.Udacity @Grace.Udacity note it down this! and they are saying that local meetup is for just information.
 * Attended Virtual Meetup #sg_nepal and #sg_spaic 
-| ------------------------- | ------------------------- |
-| ![][image6] | ![][image7]
+
+Nepal Meetup      |  SPAIC
+:-------------------------:|:-------------------------:
+![][image6]                | ![][image7]
 
 ### Day 7 : 23/01/2020 
 #### Polarbeargo 
