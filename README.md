@@ -211,6 +211,14 @@ Nepal Meetup      |  SPAIC
 ### Day 7 : 26/01/2020 
 #### ahkhalwai 
 
+* Start The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine, 3.1 Introduction, 3.2 The Inference Engine, 3.3 Supported Devices
+* English Grammar and Style course on EDX, Complete the Week 3:- Verbs, Overview. https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+* Reading SMART-CITY: Defined by insiders https://medium.com/@julien.carbonnell/smart-city-defined-by-insiders-f60bf2e6d6a1
+* Reading Kaggle Competition Discussion:- Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+* Reading Kaggle Competition Leaderboard:- Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+* Reading Kaggle Competition Notebook:- Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+* @Bearbear provides Two Sigma Competitor strategy top 100. https://github.com/interviewBubble/Data-Science-Competitions#two-sigma-using-news-to-predict-stock-movements
+
 ### Day 8 : 24/01/2020 
 #### Polarbeargo 
 
@@ -245,3 +253,6 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ![][image5]  
 * Reading and implement Leetcode and Kaggle discussion.
 * Planning and think of the Intel® Edge AI Scholarship group project with the study group.
+
+### Day 9 : 28/01/2020 
+#### ahkhalwai
