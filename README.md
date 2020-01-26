@@ -256,3 +256,24 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 9 : 28/01/2020 
 #### ahkhalwai
+
+### Day 10 : 26/01/2020 
+#### Polarbeargo 
+
+* Reading C plus plus Nanodegree project: System Monitor section System Data and Processor Data find the coolest references inside section System Data(Everytime I found references inside Nanodegree program and open it, I feel I love Udacity from my heart):
+   * [Understanding /proc/meminfo file (Analyzing Memory utilization in Linux)
+](https://www.thegeekdiary.com/understanding-proc-meminfo-file-analyzing-memory-utilization-in-linux/)
+   * [Interpreting /proc/meminfo and free output for Red Hat Enterprise Linux 5, 6 and 7](https://access.redhat.com/solutions/406773)
+   * [Hisham H. Muhammad](http://hisham.hm/about)
+   * [ Stack Overflow answer about how htop calculates memory utilization from the data](https://stackoverflow.com/questions/41224738/how-to-calculate-system-memory-usage-from-proc-meminfo-like-htop/41251290#41251290)  
+* Fixing errors in process.cpp with and linux_parser.cpp following project: System Monitor section System Data and Processor Data.
+![][image8]  
+* Reading 1st project review from  C plus plus Nanodegree program has a lot of beautiful references Udacity reviewer must be one of the greatest magician on this mother earth:
+   * [To Comment or Not to Comment](https://visualstudiomagazine.com/Kunk0211)
+   * [Clean Code](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)
+   * [learncpp](https://www.learncpp.com/)
+   * [Basic Concepts of Object Oriented Programming using C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+* Reading Computer Vision Nanodegree program extracurricular 6. C++ Programming to section Python and C++ Comparison. Watching section 1 Introduction for 5 times watching and listen to Sir Sebastian Thrun's gentle and handsome lecture talk about translate python into C plus plus. Saw Sir Andy from Flying Car Nanodegree talk about his experience learning C plus plus. Watching [Elecia White's conversation with Andy and her book](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149), I'm so exciting!!.
+* Implement and reading Architecting with Google Kubernetes Engine quiz and lab.  
+* Reading and implement Leetcode and Kaggle discussion.
+* Think of the Intel® Edge AI Scholarship group project with the study group.
