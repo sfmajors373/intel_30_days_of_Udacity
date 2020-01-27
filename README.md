@@ -278,3 +278,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Implement and reading Architecting with Google Kubernetes Engine quiz and lab.  
 * Reading and implement Leetcode and Kaggle discussion.
 * Think of the Intel® Edge AI Scholarship group project with the study group.
+
+### Day 11 : 27/01/2020 
+#### Polarbeargo 
+
+* Spent a brief of time on rereading lesson 4 The Inference Engine section 4 Using the Inference Engine with an IR.
+* One thing at a time, focus on reading 1st and 2st project review and reference provide by Udacity reviewer from C plus plus Nanodegree program and fixing errors in format.cpp and linux_parser.cpp following project: System Monitor section System Data and Processor Data.
+* Spent a brief of time on implement and reading Architecting with Google Kubernetes Engine quiz and lab on Coursera.  
+* Spent a brief of time reading Leetcode and Kaggle discussion.
+* Spent a brief of time reading and wrtiting [ETSx: TOEFLx TOEFL® Test Preparation: The Insider’s Guide](https://www.edx.org/course/toefl-test-preparation-the-insiders-guide?utm_campaign=gotocourse&utm_medium=coursepage&utm_source=CourseTalk)
+* Spent a brief of time reading and preparing JLPT N1 in May.
