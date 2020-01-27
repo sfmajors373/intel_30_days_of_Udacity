@@ -240,6 +240,14 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 8 : 27/01/2020 
 #### ahkhalwai 
 
+* Late Night working on NLP project which is based on Smart City, Gone through many datasets,  Send a pull request on Github and @Bearbear accepted :slightly_smiling_face: 
+* Reading Kaggle Competition Discussion:- Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+* Reading Kaggle Competition Leaderboard:- Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+* Reading Kaggle Competition Notebook:- Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+* Working on a runner up comment's in Kaggle Competition Discussion:- Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914#latest-593302
+* Register on outreachy for an internship today. https://www.outreachy.org/
+* Working on Finite or Non- Finite Verb :slightly_smiling_face: 
+
 ### Day 9 : 25/01/2020 
 #### Polarbeargo 
 
@@ -279,6 +287,9 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Reading and implement Leetcode and Kaggle discussion.
 * Think of the Intel® Edge AI Scholarship group project with the study group.
 
+### Day 10 : 29/01/2020 
+#### ahkhalwai
+
 ### Day 11 : 27/01/2020 
 #### Polarbeargo 
 
@@ -288,3 +299,6 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Spent a brief of time reading Leetcode and Kaggle discussion.
 * Spent a brief of time reading and wrtiting [ETSx: TOEFLx TOEFL® Test Preparation: The Insider’s Guide](https://www.edx.org/course/toefl-test-preparation-the-insiders-guide?utm_campaign=gotocourse&utm_medium=coursepage&utm_source=CourseTalk)
 * Spent a brief of time reading and preparing JLPT N1 in May.
+
+### Day 11 : 30/01/2020 
+#### ahkhalwai
