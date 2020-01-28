@@ -267,6 +267,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 9 : 28/01/2020 
 #### ahkhalwai
 
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine, 4.4 Using the Inference Engine with an IR, 4.5 Exercise: Feed an IR to the Inference Engine, 4.6 Solution: Feed an IR to the Inference Engine
+* English Grammar and Style course on EDX, Complete the Week 3:- Verbs, Finite and non-finite verbs. https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+* Watch and Activities, identify the finite and non-finite verbs, transitive or intransitive, auxiliary verbs in English. https://www.youtube.com/watch?v=z96-ZkIpQZQ, https://www.youtube.com/watch?v=xUFo94TXwqc
+* Continue reading Discussion, Leaderboard, Notebook Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+
 ### Day 10 : 26/01/2020 
 #### Polarbeargo 
 
