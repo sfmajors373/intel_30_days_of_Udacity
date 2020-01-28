@@ -311,13 +311,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
    * [CppCon 2019: Bjarne Stroustrup “C++20: C++ at 40”](https://youtu.be/u_ij0YNkFUs)
    * [C++ Weekly - Ep 108 - Understanding emplace_back](https://youtu.be/uwv1uvi1OTU) 
    * [C++ Reference Material Programming Style Conventions](http://cs.stmarys.ca/~porter/csc/ref/cpp_style.html)
-   * [manpage](http://man7.org/linux/man-pages/man5/proc.5.html)
+   * [manpage](http://man7.org/linux/man-pages/man5/proc.5.html)  
   I spent most of the day watching CppCon and references from my Dearest reviewer who give me heart emotion on my review which is so cute and sweet, Thank you my Dearest reviewer!! I'm so happy to have this opportunity receiving your review!! I'm lucky!! I decided finish watching CppCon it's so cool!
 * Reading 1st, 2st, 3rd project reviews and reference provide by Udacity reviewer from C plus plus Nanodegree program and refactor system.cpp, format.cpp and linux_parser.cpp with project review and the following references:  
    * [htop](https://github.com/hishamhm/htop)  
    * [C plus plus standard library suggestion reading 1](https://en.cppreference.com/w/)  
    * [C plus plus standard library suggestion reading 2](http://www.cplusplus.com/)  
-   I celerbrate with myself I finally made through the System Monitor project!! It's so playful and has a lot of fun time within it!  
+   I celebrate with myself I finally made through the System Monitor project!! It's so playful and has a lot of fun time within it!  
 ![][image9]   
 * Reading Computer Vision Nanodegree program extracurricular 6. C++ Programming to section C++ - A Statically Typed Language. I have to say extracurricular are awesome!! I'm so glad I come back to treasure hunt found secret section!! 
    * Watching [Elecia White](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149) and Sir Andy from Flying Car Nanodegree program talk about Static vs Dynamic Typing!
