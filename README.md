@@ -328,3 +328,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
    * Watching [Elecia White](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149) and Sir Andy from Flying Car Nanodegree program talk about Static vs Dynamic Typing!
 * Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab.
 * Spent a brief of time reading Leetcode and Kaggle discussion.
+
+### Day 13 : 29/01/2020 
+#### Polarbeargo
+
+* Reading 1st, 2st, 3rd project reviews, and reference provide by Udacity reviewer from C plus plus Nanodegree program and refactor processor.cpp and processor.h with project review.
+* Reading The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5 Deploying an edge app section 6 Gathering Useful Information from Model Outputs.
+* Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group. 
+* Spent a brief of time implement and reading Kaggle's discussion.
+* Celebrate Sarah Majors and Aftab their new achievement, talking with Harkirat Singh is the best time of the day :)! Take an early rest for the day.
+
