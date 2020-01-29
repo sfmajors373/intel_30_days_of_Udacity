@@ -332,7 +332,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 13 : 29/01/2020 
 #### Polarbeargo
 
-* Reading 1st, 2st, 3rd project reviews, and reference provide by Udacity reviewer from C plus plus Nanodegree program and refactor processor.cpp and processor.h with project review.
+* Reading 1st, 2st, 3rd project reviews, and reference provide by Udacity reviewer from C plus plus Nanodegree program and refactor processor.cpp and processor.h with project review. Continue watching CppCon 2019.
 * Reading The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5 Deploying an edge app section 6 Gathering Useful Information from Model Outputs.
 * Continue to organize the Intel® Edge AI Scholarship Foundation Course Nanodegree Program lecture materials and implement scripts as a new repo for future usage with the study group. 
 * Spent a brief of time implement and reading Kaggle's discussion.
