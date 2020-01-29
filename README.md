@@ -296,6 +296,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 10 : 29/01/2020 
 #### ahkhalwai
 
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine, 4.4 Using the Inference Engine with an IR, 4.7 Sending Inference Requests to the IE, 4.8 Asynchronous Requests
+* English Grammar and Style course on EDX, Complete the Week 3:- Verbs, Finite and non-finite verbs. https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+* Working on Verb by using book " English Grammar & Composition by Wren & Martin " and watch some videos on it. https://www.youtube.com/watch?v=Bbh3Kw5Jfwg, https://www.youtube.com/watch?v=4v5zwSA9eYs&t=23s
+* Today I am not well so still working on NLP project Smart City and Continue reading Discussion, Leaderboard, Notebook Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
+
 ### Day 11 : 27/01/2020 
 #### Polarbeargo 
 
@@ -329,6 +334,9 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab.
 * Spent a brief of time reading Leetcode and Kaggle discussion.
 
+### Day 12 : 31/01/2020 
+#### ahkhalwai
+
 ### Day 13 : 29/01/2020 
 #### Polarbeargo
 
@@ -338,3 +346,5 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Spent a brief of time implement and reading Kaggle's discussion.
 * Celebrate Sarah Majors and Aftab their new achievement, talking with Harkirat Singh is the best time of the day :)! Take an early rest for the day.
 
+### Day 13 : 01/02/2020 
+#### ahkhalwai
