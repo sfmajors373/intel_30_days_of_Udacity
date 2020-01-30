@@ -319,7 +319,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Working on Verbs | Regular Verbs | Irregular Verbs by using the book " English Grammar & Composition by Wren & Martin " and watch some videos on it. https://www.youtube.com/watch?v=8kUyDtk0Yjw&t=474s
 * Organizing repository and continuously working on the NLP project of Smart City and update to a private Github repository.
 * Repository updating the strategy of 2nd rank or 3rd rank winner in Kaggle Two Sigma: Using News to Predict Stock Movements composition.https://www.kaggle.com/c/two-sigma-financial-news
-* Reopen the project of grab cut which I started in my previous scholarship and Dimple Bhuta helped in that. so it's a computer vision project and grab cut is a python library but not provide an exact background which many people is working on it :slightly_smiling_face: 
+* Reopen the project of grab cut which I started in my previous scholarship and Dimple Bhuta helped in that. so it's a computer vision project and grab cut is a python library but not provide an exact background cut which many people is working on it :slightly_smiling_face: 
 
 ### Day 12 : 28/01/2020 
 #### Polarbeargo
