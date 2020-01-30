@@ -296,7 +296,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 10 : 29/01/2020 
 #### ahkhalwai
 
-* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine, 4.4 Using the Inference Engine with an IR, 4.7 Sending Inference Requests to the IE, 4.8 Asynchronous Requests
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine, 4.6 Using the Inference Engine with an IR, 4.7 Sending Inference Requests to the IE, 4.8 Asynchronous Requests
 * English Grammar and Style course on EDX, Complete the Week 3:- Verbs, Finite and non-finite verbs. https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
 * Working on Verb by using book " English Grammar & Composition by Wren & Martin " and watch some videos on it. https://www.youtube.com/watch?v=Bbh3Kw5Jfwg, https://www.youtube.com/watch?v=4v5zwSA9eYs&t=23s
 * Today I am not well so still working on NLP project Smart City and Continue reading Discussion, Leaderboard, Notebook Two Sigma: Using News to Predict Stock Movements https://www.kaggle.com/c/two-sigma-financial-news
@@ -313,6 +313,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 11 : 30/01/2020 
 #### ahkhalwai
+
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine, 4.9 Exercise: Inference Requests, 4.10 Solution: Inference Requests
+* English Grammar and Style course on EDX, Complete the Week 3:- Verbs, Lecture 3.2: Verb tense, verb mood, and voice of verbs. https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+* Working on Verbs | Regular Verbs | Irregular Verbs by using the book " English Grammar & Composition by Wren & Martin " and watch some videos on it. https://www.youtube.com/watch?v=8kUyDtk0Yjw&t=474s
+* Organizing repository and continuously working on the NLP project of Smart City and update to a private Github repository.
+* Repository updating the strategy of 2nd rank or 3rd rank winner in Kaggle Two Sigma: Using News to Predict Stock Movements composition.https://www.kaggle.com/c/two-sigma-financial-news
+* Reopen the project of grab cut which I started in my previous scholarship and Dimple Bhuta helped in that. so it's a computer vision project and grab cut is a python library but not provide an exact background which many people is working on it :slightly_smiling_face: 
 
 ### Day 12 : 28/01/2020 
 #### Polarbeargo
