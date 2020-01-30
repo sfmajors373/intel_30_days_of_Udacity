@@ -352,6 +352,6 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 14 : 30/01/2020 
 #### Polarbeargo
 
-* Reading 1st, 2st, 3rd project reviews, and reference provide by Udacity reviewer from C plus plus Nanodegree program. Continue watching CppCon 2019.
-* Spent a brief of time reading Kaggle's discussion.
+* Reading 1st, 2nd, 3rd project reviews, and reference provided by Udacity reviewer from C plus plus Nanodegree program. Continue watching CppCon 2019.
+* I spent a brief time reading Kaggle's discussion.
 * Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab.
