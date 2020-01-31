@@ -11,6 +11,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image7]: ./images/spaic1.png
 [image8]: ./images/systemMonitorSuccess.gif
 [image9]: ./images/sucMon.gif
+[image10]: ./images/output.gif
 
 Collaborators:  
 
@@ -367,7 +368,8 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 #### Polarbeargo
 
 * Using what I learn from The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5 Deploying an edge app section 4 Handling Input Streams implement 'cv2.VideoCapture' lifecycle and 'cv2.VideoWriter'.
+![][image10]
 * Reading 1st, 2nd, 3rd project reviews, and reference provided by Udacity reviewer from C plus plus Nanodegree program. Continue watching CppCon 2019 and 2018 and found a cute coincidence is that in C plus plus Nanodegree program project review my dearest reviewer attached [Intel® C++ Compiler](https://software.intel.com/en-us/cpp-compiler-developer-guide-and-reference-remarks-warnings-and-errors) which is really a beautiful coincidence:)!
 * 1 vs 1 video with C plus plus Nanodegree program Renaud. He is so cool said "I will help you reading Clean code and annotate the important section"! He also shares with me [USING THE PYTORCH C++ FRONTEND](https://pytorch.org/tutorials/advanced/cpp_frontend.html) which another beautiful coincidence have mentioned CppCon2018!!
 * I spent a brief time reading Kaggle's discussion.
-* Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab.
+* Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab.  
