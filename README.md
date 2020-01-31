@@ -345,6 +345,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 12 : 31/01/2020 
 #### ahkhalwai
 
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine, 4.11 Handling Results, 4.12 Integrating into Your App
+* Enjoy reading Intel®’s IoT Apps Across Industries, Starting Your First IoT Project, OpenVINO™ on a Raspberry Pi and Intel® Neural Compute Stick. https://www.intel.com/content/www/us/en/internet-of-things/industry-solutions.html, https://hackernoon.com/the-ultimate-guide-to-starting-your-first-iot-project-8b0644fbbe6d, https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/
+* English Grammar and Style course on EDX, Complete the Week 3:- Verbs, Lecture 3.2: Verb tense, verb mood, and voice of verbs. https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+* Practice making perfect on Transitive verbs and Intransitive Verbs by using the book " English Grammar & Composition by Wren & Martin " and @Bearbear @Frida @Sarah Majors @Harkirat helping me in grammars :slightly_smiling_face: 
+* Working on Kaggle Two Sigma: Using News to Predict Stock Movements competition.https://www.kaggle.com/c/two-sigma-financial-news
+* Thinking about to recall Dimple Bhuta on grab cut project :slightly_smiling_face: 
+
 ### Day 13 : 29/01/2020 
 #### Polarbeargo
 
@@ -364,6 +371,9 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * I spent a brief time reading Kaggle's discussion.
 * Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab.
 
+### Day 14 : 02/02/2020 
+#### ahkhalwai
+
 ### Day 15 : 31/01/2020 
 #### Polarbeargo
 
@@ -373,3 +383,42 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * 1 vs 1 video with C plus plus Nanodegree program Renaud. He is so cool said "I will help you reading Clean code and annotate the important section"! He also shares with me [USING THE PYTORCH C++ FRONTEND](https://pytorch.org/tutorials/advanced/cpp_frontend.html) which another beautiful coincidence have mentioned CppCon2018!!
 * I spent a brief time reading Kaggle's discussion.
 * Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab.  
+
+### Day 15 : 03/02/2020 
+#### ahkhalwai
+
+### Day 16 : 01/02/2020 
+#### Polarbeargo
+
+### Day 16 : 04/02/2020 
+#### ahkhalwai
+
+### Day 17 : 02/02/2020 
+#### Polarbeargo
+
+### Day 17 : 05/02/2020 
+#### ahkhalwai
+
+### Day 18 : 03/02/2020 
+#### Polarbeargo
+
+### Day 18 : 06/02/2020 
+#### ahkhalwai
+
+### Day 19 : 04/02/2020 
+#### Polarbeargo
+
+### Day 19 : 07/02/2020 
+#### ahkhalwai
+
+### Day 20 : 05/02/2020 
+#### Polarbeargo
+
+### Day 20 : 08/02/2020 
+#### ahkhalwai
+
+### Day 21 : 06/02/2020 
+#### Polarbeargo
+
+### Day 21 : 09/02/2020 
+#### ahkhalwai
