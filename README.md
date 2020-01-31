@@ -351,6 +351,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Practice making perfect on Transitive verbs and Intransitive Verbs by using the book " English Grammar & Composition by Wren & Martin " and @Bearbear @Frida @Sarah Majors @Harkirat helping me in grammars :slightly_smiling_face: 
 * Working on Kaggle Two Sigma: Using News to Predict Stock Movements competition.https://www.kaggle.com/c/two-sigma-financial-news
 * Thinking about to recall Dimple Bhuta on grab cut project :slightly_smiling_face: 
+* Create a final message for Local meetup #sg_pune :slightly_smiling_face: 
 
 ### Day 13 : 29/01/2020 
 #### Polarbeargo
