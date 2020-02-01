@@ -12,6 +12,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image8]: ./images/systemMonitorSuccess.gif
 [image9]: ./images/sucMon.gif
 [image10]: ./images/output.gif
+[image11]: ./images/nepal2.png
 
 Collaborators:  
 
@@ -364,6 +365,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 13 : 01/02/2020 
 #### ahkhalwai
+
+* Spend time with @Bearbear @Pranjal Chaubey about 3 hours Virtual Meetup on Kaggle Two Sigma: Using News to Predict Stock Movements competition.https://www.kaggle.com/c/two-sigma-financial-news
+* Created and attended a meetup on #sg_nepal with @Anshu Trivedi @Vikas Bhandary 
+* Planning for project showcase with @Bearbear @Sarah Majors @Harkirat @Frida :slightly_smiling_face: 
+![][image2]
 
 ### Day 14 : 30/01/2020 
 #### Polarbeargo
