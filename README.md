@@ -389,13 +389,21 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 #### ahkhalwai
 
 ### Day 16 : 01/02/2020 
-#### Polarbeargo
+#### Polarbeargo   
+
+* Planning and discussing the Intel® Edge AI Scholarship group project with the study group.
+* Continue to reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP.  
+* Reading 1st, 2nd, 3rd project reviews, and reference provided by Udacity reviewer from C plus plus Nanodegree program. Continue watching CppCon 2019 to [CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://www.youtube.com/watch?v=FJJTYQYB1JQ&t=1430s) feel very poetic.
+* I spent a brief time reading Kaggle's discussion.
+* I saw Pranjal's great accomplish in his Facebook Developer Circles talk and know everyone loves his talk as I do and I saw Aftab is growing his skill and finish his first presentation in Pranjal's trading group saw his persistence makes me deeply touched, I feel happy for them to celebrate their achievement and pray for their continued persistence, success, and prosperity in their life. Thank you Pranjal let us join his weekly trading group. I saw they are modest even Pranjal and Aftab having a fever. Pranjal still accomplishes in his Facebook Developer Circles talk. Aftab still tells me he will well prepared for tonight's meeting even I told him rest to full recovery then reply to my message it's okay.
 
 ### Day 16 : 04/02/2020 
 #### ahkhalwai
 
 ### Day 17 : 02/02/2020 
 #### Polarbeargo
+
+
 
 ### Day 17 : 05/02/2020 
 #### ahkhalwai
