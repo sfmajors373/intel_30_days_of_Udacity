@@ -369,7 +369,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Spend time with @Bearbear @Pranjal Chaubey about 3 hours Virtual Meetup on Kaggle Two Sigma: Using News to Predict Stock Movements competition.https://www.kaggle.com/c/two-sigma-financial-news
 * Created and attended a meetup on #sg_nepal with @Anshu Trivedi @Vikas Bhandary 
 * Planning for project showcase with @Bearbear @Sarah Majors @Harkirat @Frida :slightly_smiling_face: 
-![][image2]
+![][image11]
 
 ### Day 14 : 30/01/2020 
 #### Polarbeargo
