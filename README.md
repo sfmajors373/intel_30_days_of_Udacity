@@ -409,6 +409,10 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 17 : 02/02/2020 
 #### Polarbeargo
 
+* Rereading The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5 Deploying an edge app section 11 Streaming Images to a Server think of FFmpeg recall this library from my mind.
+* Reading Computer Vision Nanodegree program extracurricular 6. C++ Programming to section C++ Functions sink my mind in the rhythm of beautiful writing Lectures! 
+* Reading C plus plus Nanodegree program lesson 4 Dynamic Memory Allocation (The Heap) section 3 Using malloc and free. Think of what I want to Implement in Capstone project at the same time sneak peek of the beautiful Memory Management Chatbot project:D!
+* Yesterday burn the midnight oil with trading study group take an early rest for the day.
 
 
 ### Day 17 : 05/02/2020 
