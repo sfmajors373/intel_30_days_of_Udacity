@@ -381,6 +381,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 14 : 02/02/2020 
 #### ahkhalwai
 
+* Complete The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 4- The Inference Engine
+* Solving queries of Nikita sukhwal on computer vision 3rd project 
+* Understanding tough English words for irregular verbs so it takes much time to understand English tough words.
+* Planning for project showcase for #sg_nepal #sg_pune to helping them 
+* The searching idea about my project showcase with @Bearbear @Sarah Majors @Harkirat @Frida 
+
 ### Day 15 : 31/01/2020 
 #### Polarbeargo
 
