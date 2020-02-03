@@ -401,6 +401,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 15 : 03/02/2020 
 #### ahkhalwai
 
+* Start The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5- Deploying an Edge App, 5.1 Introduction, 5.2 OpenCV Basics.
+* Learn how to extract stock market data using python https://www.youtube.com/watch?v=2BrpKpWwT2A
+* Continue understanding tough English words for irregular verbs and solve some problems as well.
+* Planning Data structures and algorithms problem study by this weekend with @kübra doğmuş :slightly_smiling_face: 
+* Thinking about the project https://github.com/opencv with @Bearbear @Sarah Majors @Harkirat @Frida :slightly_smiling_face: 
+
 ### Day 16 : 01/02/2020 
 #### Polarbeargo   
 
