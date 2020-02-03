@@ -425,7 +425,15 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 #### ahkhalwai
 
 ### Day 18 : 03/02/2020 
-#### Polarbeargo
+#### Polarbeargo  
+* Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming to section Doubles are Bigger. I super love the conversation between Instructor Elecia White and Instructor Andy :D!
+* Replay Typical Memory Management Problems lesson 4 Dynamic Memory Allocation (The Heap) section 5 Bjarne on new and delete and section 6 Typical Memory Management Problems. It's lucky to see the following beautiful story writing. As Bjarne Stroustrup put it so elegantly:
+
+"C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off".  
+* Use what I learn from the Self Driving Car Engineer Nanodegree program Advanced Lane line project and the email loop from Sir Andrew Ng finish a little part of the count.  
+![][image12]
+* Think of the Intel® Edge AI Scholarship group project.
+* I feel I love [ETSx: TOEFLx TOEFL® Test Preparation: The Insider’s Guide] lecture materials about Nomads, discuss people's opinion, speaking, Greek and Latin roots. Received Speaking section grades, I feel very grateful and enrich my soul.
 
 ### Day 18 : 06/02/2020 
 #### ahkhalwai
