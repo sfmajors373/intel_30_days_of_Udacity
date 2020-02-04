@@ -440,7 +440,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Use what I learn from the Self Driving Car Engineer Nanodegree program Advanced Lane line project and the email loop from Sir Andrew Ng finish a little part of the count.  
 ![][image12]
 * Think of the Intel® Edge AI Scholarship group project.
-* I feel I love [ETSx: TOEFLx TOEFL® Test Preparation: The Insider’s Guide] lecture materials about Nomads, discuss people's opinion, speaking, Greek and Latin roots. Received Speaking section grades, I feel very grateful and enrich my soul.
+* I feel I love [ETSx: TOEFLx TOEFL® Test Preparation: The Insider’s Guide](https://www.edx.org/course/toefl-test-preparation-the-insiders-guide?utm_campaign=gotocourse&utm_medium=coursepage&utm_source=CourseTalk) lecture materials about Nomads, discuss people's opinion, speaking, Greek and Latin roots. Received Speaking section grades, I feel very grateful and enrich my soul.
 
 ### Day 18 : 06/02/2020 
 #### ahkhalwai
