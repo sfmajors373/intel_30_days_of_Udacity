@@ -448,8 +448,8 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 19 : 04/02/2020 
 #### Polarbeargo
 
-* Replay Typical Memory Management Problems lesson 4 Dynamic Memory Allocation (The Heap) section 6 Typical Memory Management Problems. I'm happy to have this chance reading [Find memory leaks with the CRT Library - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2019) and understand that Microsoft always very gentle and has a modest heart for humanity.
-* Answer @Anshu Trivedi's question and invite her to the study group. Thank you @Anshu Trivedi for asking me a question and allow me to have this chance to assist you.
+* Replay Typical Memory Management Problems lesson 4 Dynamic Memory Allocation (The Heap) section 6 Typical Memory Management Problems, listen to Professor Andreas Haya’s gentle and elegant voice within lectures. I'm grateful to have this chance reading [Find memory leaks with the CRT Library - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2019) and know that Microsoft always very gentle and has a modest heart for humanity.
+* Answer @Anshu Trivedi's question and invite her to the study group. Thank you @Anshu Trivedi for asking me a question and allows me to have this chance to assist you.
 * Think of the Intel® Edge AI Scholarship group project, reading research references and exchange opinions with classmates.
 * Today a little bit tired decide to rest earlier.
 
