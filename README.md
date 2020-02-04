@@ -419,6 +419,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 16 : 04/02/2020 
 #### ahkhalwai
 
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5- Deploying an Edge App, 5.3 Handling Input Streams, 5.4  BasicsExercise: Handling Input Streams, 5.5 Solution: Handling Input Streams
+* Reading Brilliant insights into the Kaggle 2-sigma competition by Dr. Ernie Chan. http://www.epchan.com/What%20we%20learned%20from%20Kaggle%20Two-Sigma%20News%20Sentiment%20competition.pdf
+* Working on #sg_pune #sg_nepal channel project platform for the project showcase
+* Practice on Intransitive verbs used as Transitive by using the book " English Grammar & Composition by Wren & Martin "
+* Working on my group project i.e Project Showcase with @Bearbear @Sarah Majors @Harkirat @Frida and new member( my favorite person) @Anshu Trivedi :heart: 
+
 ### Day 17 : 02/02/2020 
 #### Polarbeargo
 
