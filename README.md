@@ -437,6 +437,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 17 : 05/02/2020 
 #### ahkhalwai
 
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5- Deploying an Edge App, 5.6 Gathering Useful Information from Model Outputs, 5.7 Exercise: Process Model Outputs, 5.8 Solution: Process Model Outputs
+* Working on my group project i.e Project Showcase with @Bearbear @Sarah Majors @Harkirat @Frida @Anshu Trivedi
+* Learn how to run OpenVino in Google Colab, https://github.com/alihussainia/OpenDevLibrary
+* Working on #sg_pune #sg_nepal channel project for the project showcase 
+
 ### Day 18 : 03/02/2020 
 #### Polarbeargo  
 * Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming to section Doubles are Bigger. I super love the conversation between Instructor Elecia White and Instructor Andy :D!
