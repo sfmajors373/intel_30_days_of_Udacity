@@ -470,7 +470,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Think of the Intel® Edge AI Scholarship group project, reading research references and exchange opinions with classmates.
 * Use what I learn from the Self Driving Car Engineer Nanodegree program Advanced Lane line project, Robotics Software Engineer Nanodegree program Deep Learning Project and the email loop from Sir Andrew Ng finish a little part of another count.  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W-Y852zPEW4/0.jpg)](https://youtu.be/W-Y852zPEW4)  
-* I still love Sir David J. Malan's beatiful lectures still reading New threads in CS50x hope this year I can manage to acomplish GD50 assignments from Instructor Colton Odgen! I'll try my best to catch up!
+* I still love Sir David J. Malan's beautiful lectures still reading New threads in CS50x hope this year I can manage to acomplish GD50 assignments from Instructor Colton Ogden! I'll try my best to catch up!
 ### Day 20 : 08/02/2020 
 #### ahkhalwai
 
