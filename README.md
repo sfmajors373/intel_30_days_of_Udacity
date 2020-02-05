@@ -465,6 +465,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 20 : 05/02/2020 
 #### Polarbeargo
 
+* Still reading Typical Memory Management Problems lesson 4 Dynamic Memory Allocation (The Heap) section 6 Typical Memory Management Problems [Find memory leaks with the CRT Library - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2019) and the beautiful valgrind [GitHub - sowson/valgrind: Experimental Version of Valgrind for macOS 10.14.6 Mojave](https://github.com/sowson/valgrind), [Valgrind: About](http://valgrind.org/info/) so historicaly beautiful! I love you Udacity! Along the way meet Udacity team members, Instructors, career services if is me, I will cherish every time reading Udacity team member's each post and cherish their exsistence on this planet beacause you are so beautiful. Thank you Sir Sebastian Thrun you rock!! We love you.
+
+* Think of the Intel® Edge AI Scholarship group project, reading research references and exchange opinions with classmates.
+* Use what I learn from the Self Driving Car Engineer Nanodegree program Advanced Lane line project, Robotics Software Engineer Nanodegree program Deep Learning Project and the email loop from Sir Andrew Ng finish a little part of another count.  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W-Y852zPEW4/0.jpg)](https://youtu.be/W-Y852zPEW4)  
+* I still love Sir David J. Malan's beatiful lectures still reading New threads in CS50x hope this year I can manage to acomplish GD50 assignments from Instructor Colton Odgen! I'll try my best to catch up!
 ### Day 20 : 08/02/2020 
 #### ahkhalwai
 
