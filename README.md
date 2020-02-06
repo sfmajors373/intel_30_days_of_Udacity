@@ -482,5 +482,9 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 21 : 06/02/2020 
 #### Polarbeargo
 
+* Rereading The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5- Deploying an Edge App section 12 Handling Statistics and Images from a Node Server and section 15 Analyzing Performance Basics.
+* Reading Typical Memory Management Problems lesson 4 Dynamic Memory Allocation (The Heap) section 6 Typical Memory Management Problems [Find memory leaks with the CRT Library - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/debugger/finding-memory-leaks-using-the-crt-library?view=vs-2019) and the beautiful valgrind [GitHub - sowson/valgrind: Experimental Version of Valgrind for macOS 10.14.6 Mojave](https://github.com/sowson/valgrind), [Valgrind: About](http://valgrind.org/info/)  
+* Separate task of the Intel® Edge AI Scholarship group project to the group members, reading research references listen to @Aftab 's question and the error he encountered with in https://github.com/opencv/open_model_zoo/blob/master/demos/object_detection_demo_ssd_async/README.md assist @aftab to the way resolve this error. I'm very happy to see @Aftab assist @Anshu Trivedi and introduce his current task to @Anshu Trivedi via zoom. I'm very grateful to have this chance to see Aftab build his ability to gently support, motivate and help study group member. It touches my day.
+ 
 ### Day 21 : 09/02/2020 
 #### ahkhalwai
