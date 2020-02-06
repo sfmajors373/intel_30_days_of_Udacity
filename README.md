@@ -456,6 +456,14 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 18 : 06/02/2020 
 #### ahkhalwai
 
+
+* The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5- Deploying an Edge App, 5.9 Intro to MQTT, 5.10 Communicating with MQTT, 5.11 Streaming Images to a Server
+* Continue with English Grammar and Style course on EDX, Complete the Week 3:- Verbs, Lecture 3.2: Verb tense, verb mood, and voice of verbs. https://courses.edx.org/courses/course-v1:UQx+Write101x+2T2019/course/
+* Start with an Active and Passive Voice look very scary for me :disappointed: https://www.youtube.com/watch?v=nXNFyY7xe8I&t=447s
+@Bearbear appreciated for my work in Study Group Project :thankyou::heart::dance_1: 
+* Working on my Study group project with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat @Frida 
+* Working on another project showcase project with @kübra doğmuş @Lakshmi Prasannakumar :slightly_smiling_face: 
+
 ### Day 19 : 04/02/2020 
 #### Polarbeargo
 
