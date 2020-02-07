@@ -475,6 +475,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 19 : 07/02/2020 
 #### ahkhalwai
 
+* Practicing with an Active and Passive Voice problem from " English Grammar & Composition by Wren & Martin" Book.
+* Working on a project with @Bearbear @Frida @Sarah Majors @Harkirat @Anshu Trivedi :slightly_smiling_face: 
+* Working on a project with @kübra doğmuş @Lakshmi Prasannakumar and do a virtual meetup :slightly_smiling_face: :heart: 
+* Working on a StockTwits data extraction
+* I stop Two sigma and smart city project due to busy in the project showcase challenge
+
 ### Day 20 : 05/02/2020 
 #### Polarbeargo
 
