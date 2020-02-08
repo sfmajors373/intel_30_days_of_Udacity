@@ -511,3 +511,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Reading 1st, 2nd, 3rd project reviews, and reference provided by Udacity reviewer from C plus plus Nanodegree program, Thank you, my dear reviewer, for writing this review for me. I'm very happy every time I read them! 
 * Planing and think of the Memory Management Chatbot project from C plus plus Nanodegree program.
 * Reading Typical Memory Management Problems lesson 4 Dynamic Memory Allocation (The Heap) section 6 Typical Memory Management Problems.
+
+### Day 23 : 08/02/2020 
+#### Polarbeargo
+
+* Implement the Intel® Edge AI Scholarship group project and reading research references [Introduction to the Performance Topics](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Intro_to_Performance.html) from The Intel® Edge AI Scholarship Foundation Course Nanodegree and Lesson 5- Deploying an Edge App section 15 Analyzing Performance Basics.    
+* Reading Typical Memory Management Problems lesson 6 Smart Pointers and Memory Management Chatbot project from C plus plus Nanodegree program.
+* Reading Computer Vision Nanodegree program extracurricular 6. C++ Programming to section 15 Two Functions Same Name replay the conversation between Elecia and Andy about new type called t_grid `typedef vector < vector <float> > t_grid;`.
+
+
