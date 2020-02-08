@@ -14,6 +14,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image10]: ./images/output.gif
 [image11]: ./images/nepal2.png
 [image12]: ./images/rust_localization_night_vision_version.gif
+[image13]: ./images/kubra3.jpeg
 
 Collaborators:  
 
@@ -480,6 +481,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Working on a project with @kübra doğmuş @Lakshmi Prasannakumar and do a virtual meetup :slightly_smiling_face: :heart: 
 * Working on a StockTwits data extraction
 * I stop Two sigma and smart city project due to busy in the project showcase challenge
+![][image13]
 
 ### Day 20 : 05/02/2020 
 #### Polarbeargo
@@ -492,6 +494,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * I still love Sir David J. Malan's beautiful lectures still reading New threads in CS50x hope this year I can manage to acomplish GD50 assignments from Instructor Colton Ogden! I'll try my best to catch up!  
 ### Day 20 : 08/02/2020 
 #### ahkhalwai
+
+* Working on a project with @Bearbear @Frida @Sarah Majors @Harkirat @Anshu Trivedi
+* Working on a project with @kübra doğmuş @Lakshmi Prasannakumar or Data structure and algorithm together and enjoy solving problems :slightly_smiling_face: https://www.hackerrank.com/domains/data-structures
+* Working  on a StockTwits data extraction using curl or request library python
+* Reading research paper from https://arxiv.org/ on SSD, Action Recognition :slightly_smiling_face: 
 
 ### Day 21 : 06/02/2020 
 #### Polarbeargo
