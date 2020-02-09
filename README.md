@@ -526,4 +526,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Reading Typical Memory Management Problems lesson 6 Smart Pointers and Memory Management Chatbot project from C plus plus Nanodegree program.
 * Reading Computer Vision Nanodegree program extracurricular 6. C++ Programming to section 15 Two Functions Same Name replay the conversation between Elecia and Andy about new type called t_grid `typedef vector < vector <float> > t_grid;`.
 
+### Day 24 : 09/02/2020 
+#### Polarbeargo
 
+* Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree and Lesson 5- Deploying an Edge App section 19 Lesson Glossary.      
+* Reading Computer Vision Nanodegree program extracurricular 6. C++ Programming to section 19 Python vs. C++ While.
+* Pause reading and implement Coursera Google Cloud Platform new series of Data Engineering, Big Data, and Machine Learning on GCP and Architecting with Google Kubernetes Engine quiz and lab for implement the Intel® Edge AI Scholarship group project.
+* Listen to Aftab's doubt and understand where he stuck then guide him to found the answer he needs by reading them together. Encourage Aftab to achieve his first commitment in the Intel® Edge AI Scholarship group project and he made it.
+* Enjoy Sunday afternoon talking time with Harkirat catch up with him play group project together. Share my salad recipe photo and he told me he like them:)! Hark and I been through a lot together!
+* Thanks to Pranjal allows me to take Aftab and Hark to participate in his trading group meeting together every Saturday night. I am able to see Aftab practice presentation and build up what he needed. I'm very grateful for that. The best part is to see them become outstanding to achieve the next level by themselves which is very beautiful.
