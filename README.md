@@ -15,6 +15,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image11]: ./images/nepal2.png
 [image12]: ./images/rust_localization_night_vision_version.gif
 [image13]: ./images/kubra3.jpeg
+[image14]: ./images/tf1.png
 
 Collaborators:  
 
@@ -510,6 +511,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 21 : 09/02/2020 
 #### ahkhalwai
 
+* Working on the project and attended the virtual meetup with @Bearbear @Anshu Trivedi @Harkirat @Sarah Majors @Frida :slightly_smiling_face:
+* learn a lot and @Bearbear solved my stuck problem :slightly_smiling_face: 
+* Working on the project with @kübra doğmuş @Lakshmi Prasannakumar 
+* Attended #sg_pune Virtual meetup :slightly_smiling_face: 
+* Repeat the model optimizer lesson :slightly_smiling_face: 
+![][image14]
 
 ### Day 22 : 07/02/2020 
 #### Polarbeargo
@@ -519,12 +526,18 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Planing and think of the Memory Management Chatbot project from C plus plus Nanodegree program.
 * Reading Typical Memory Management Problems lesson 4 Dynamic Memory Allocation (The Heap) section 6 Typical Memory Management Problems.
 
+### Day 22 : 10/02/2020 
+#### ahkhalwai
+
 ### Day 23 : 08/02/2020 
 #### Polarbeargo
 
 * Implement the Intel® Edge AI Scholarship group project and reading research references [Introduction to the Performance Topics](https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Intro_to_Performance.html) from The Intel® Edge AI Scholarship Foundation Course Nanodegree and Lesson 5- Deploying an Edge App section 15 Analyzing Performance Basics.    
 * Reading Typical Memory Management Problems lesson 6 Smart Pointers and Memory Management Chatbot project from C plus plus Nanodegree program.
 * Reading Computer Vision Nanodegree program extracurricular 6. C++ Programming to section 15 Two Functions Same Name replay the conversation between Elecia and Andy about new type called t_grid `typedef vector < vector <float> > t_grid;`.
+
+### Day 23 : 11/02/2020 
+#### ahkhalwai
 
 ### Day 24 : 09/02/2020 
 #### Polarbeargo
@@ -535,3 +548,24 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Listen to Aftab's doubt and understand where he stuck then guide him to found the answer he needs by reading them together. Encourage Aftab to achieve his first commitment in the Intel® Edge AI Scholarship group project and he made it.
 * Enjoy Sunday afternoon talking time with Harkirat catch up with him play group project together. Share my salad recipe photo and he told me he like them:)! Hark and I been through a lot together! @Harkirat is very talented and genius one:)!
 * Thanks to Pranjal allows me to take Aftab and Hark to participate in his trading group meeting together every Saturday night. I am able to see Aftab practice presentation and build up what he needed. I'm very grateful for that. The best part is to see them become outstanding to achieve the next level by themselves which is very beautiful.
+
+### Day 24 : 12/02/2020 
+#### ahkhalwai###
+
+Day 25 : 13/02/2020 
+#### ahkhalwai###
+
+Day 26 : 14/02/2020 
+#### ahkhalwai
+
+Day 27 : 15/02/2020 
+#### ahkhalwai
+
+Day 28 : 16/02/2020 
+#### ahkhalwai
+
+Day 29 : 17/02/2020 
+#### ahkhalwai
+
+Day 30 : 18/02/2020 
+#### ahkhalwai
