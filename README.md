@@ -529,6 +529,10 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 22 : 10/02/2020 
 #### ahkhalwai
 
+* Working on the project with @Bearbear @Anshu Trivedi @Harkirat @Sarah Majors @Frida, assign the task to @Anshu Trivedi and @Bearbear assign task me or guide me :slightly_smiling_face: 
+* Working on the project with @kübra doğmuş @Lakshmi Prasannakumar @Radhika Joshi :slightly_smiling_face: 
+* reading furthermore detail on  action recognization project :slightly_smiling_face: 
+
 ### Day 23 : 08/02/2020 
 #### Polarbeargo
 
