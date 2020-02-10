@@ -554,7 +554,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Thanks to Pranjal allows me to take Aftab and Hark to participate in his trading group meeting together every Saturday night. I am able to see Aftab practice presentation and build up what he needed. I'm very grateful for that. The best part is to see them become outstanding to achieve the next level by themselves which is very beautiful.
 
 ### Day 24 : 12/02/2020 
-#### ahkhalwai###
+#### ahkhalwai
 
 ### Day 25 : 10/02/2020 
 #### Polarbeargo
@@ -565,20 +565,20 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
    * [A list of open source C++ libraries](https://en.cppreference.com/w/cpp/links/libs)
    * [C++ Container](https://en.cppreference.com/w/cpp/container)
 
-Day 25 : 13/02/2020 
-#### ahkhalwai###
-
-Day 26 : 14/02/2020 
+### Day 25 : 13/02/2020 
 #### ahkhalwai
 
-Day 27 : 15/02/2020 
+### Day 26 : 14/02/2020 
 #### ahkhalwai
 
-Day 28 : 16/02/2020 
+### Day 27 : 15/02/2020 
 #### ahkhalwai
 
-Day 29 : 17/02/2020 
+### Day 28 : 16/02/2020 
 #### ahkhalwai
 
-Day 30 : 18/02/2020 
+### Day 29 : 17/02/2020 
+#### ahkhalwai
+
+### Day 30 : 18/02/2020 
 #### ahkhalwai
