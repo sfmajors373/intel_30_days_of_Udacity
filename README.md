@@ -552,6 +552,15 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 24 : 12/02/2020 
 #### ahkhalwai###
 
+### Day 25 : 10/02/2020 
+#### Polarbeargo
+
+* Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree and Lesson 5- Deploying an Edge App section 19 Lesson Glossary.
+* Listen to @Aftab and @Anshu Trivedi's question and assist Anshu Trivedi with her assigned task in the Intel® Edge AI Scholarship group project. Yesterday is our Group showcase project 1st zoom meeting with @Aftab, @Anshu Trivedi and @Harkirat. I'm happy to see @Aftab and @Anshu Trivedi achieved their first commit in Group showcase project repository. And @Harkirat comes to help me with the assigned share task. Thank you @Sarah Major and @Frida Rode be with @Aftab while I'm not around. In the ZOOM meeting listen to @Aftab's presentation speech is getting better and better! I can see his efforts and proud of him.
+* Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming to section 22 Forge on! Listen to Sir Sebastian Thrun's gentle face and the voice said: "You don't need to memorize everything." and "Tomorrow morning let's forge on" It's a lot of relief to me:)! I super fond of this section and secretly pat my shoulder. Today the treasure references I found:
+   * [A list of open source C++ libraries](https://en.cppreference.com/w/cpp/links/libs)
+   * [C++ Container](https://en.cppreference.com/w/cpp/container)
+
 Day 25 : 13/02/2020 
 #### ahkhalwai###
 
