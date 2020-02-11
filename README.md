@@ -543,6 +543,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 23 : 11/02/2020 
 #### ahkhalwai
 
+* Half-day no internet which make my day delay, I start my day with solving opencv grabcut problem which my brother share with me which is I am still working on it. https://github.com/opencv/opencv/blob/master/samples/python/grabcut.py
+* @Bearbear provide me sample code for my project which is i am still working on it :slightly_smiling_face: 
+* Working on a project with @Bearbear @Sarah Majors @Frida @Harkirat @Anshu Trivedi 
+* Working on another project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar 
+* Gone through many pages and research article on action recognization yesterday night :slightly_smiling_face: 
+* working on request library provided by @Bearbear :slightly_smiling_face: https://requests.readthedocs.io/en/master/
+
 ### Day 24 : 09/02/2020 
 #### Polarbeargo
 
