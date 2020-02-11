@@ -572,7 +572,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 #### Polarbeargo
 
 * Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.
-* Listen to @Aftab's question and guide him to the reference he needs. I'm glad to see his persistence.
+* Listen to @Aftab's question and guide him to the reference he needs [Udacity Exsercise 4.5: feed an IR to inference Engine](https://colab.research.google.com/drive/1xla23daYYbTIfbdHF0nyHzHyoAvVtyaG#scrollTo=niqr_H0TD4Ie). I'm glad to see his persistence.
 * Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming to section 22 Forge on!
 
 
