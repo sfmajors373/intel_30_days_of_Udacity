@@ -568,6 +568,14 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 25 : 13/02/2020 
 #### ahkhalwai
 
+### Day 26 : 11/02/2020 
+#### Polarbeargo
+
+* Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.
+* Listen to @Aftab's question and guide him to the reference he needs. I'm glad to see his persistence.
+* Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming to section 22 Forge on!
+
+
 ### Day 26 : 14/02/2020 
 #### ahkhalwai
 
