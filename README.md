@@ -586,6 +586,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 26 : 14/02/2020 
 #### ahkhalwai
 
+### Day 27 : 12/02/2020 
+#### Polarbeargo
+
+* Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.
+
 ### Day 27 : 15/02/2020 
 #### ahkhalwai
 
