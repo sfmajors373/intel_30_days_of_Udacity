@@ -563,6 +563,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 24 : 12/02/2020 
 #### ahkhalwai
 
+* Continue working on the project with @Bearbear @Anshu Trivedi @Harkirat @Sarah Majors @Frida 
+* Thanks a lot, @Lesliel @Frida for solving my problem on an inference engine :slightly_smiling_face: 
+* Continue working on the project with @kübra doğmuş @Lakshmi Prasannakumar @Radhika Joshi 
+* Working on web scraping using python for data extraction 
+* Do some modification on opencv grabcut.py :slightly_smiling_face: 
+
 ### Day 25 : 10/02/2020 
 #### Polarbeargo
 
