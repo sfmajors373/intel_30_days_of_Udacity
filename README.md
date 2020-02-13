@@ -16,6 +16,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image12]: ./images/rust_localization_night_vision_version.gif
 [image13]: ./images/kubra3.jpeg
 [image14]: ./images/tf1.png
+[image15]: ./images/sd2.png
 
 Collaborators:  
 
@@ -580,6 +581,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 25 : 13/02/2020 
 #### ahkhalwai
+
+* Continue working on the project with @Bearbear @Anshu Trivedi @Harkirat @Sarah Majors @Frida 
+* Continue working on the project with @kübra doğmuş @Lakshmi Prasannakumar @Radhika Joshi
+* Attended Virtual Meetup with @Radhika Joshi 
+![][image15]
 
 ### Day 26 : 11/02/2020 
 #### Polarbeargo
