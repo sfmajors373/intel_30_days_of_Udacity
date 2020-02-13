@@ -601,6 +601,15 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 27 : 15/02/2020 
 #### ahkhalwai
 
+### Day 28 : 13/02/2020 
+#### Polarbeargo
+
+* Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.  
+* Using what I learn from The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5 Deploying an edge app section 4 Handling Input Streams implement 'cv2.VideoCapture' lifecycle and 'cv2.VideoWriter'.   
+
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/Xzhy08HFEeU/mq2.jpg?sqp=CN_9lPIF&rs=AOn4CLAlxEJwBrWPQP-KyI5C69meDyh_zA)](https://youtu.be/Xzhy08HFEeU)  
+ 
+
 ### Day 28 : 16/02/2020 
 #### ahkhalwai
 
