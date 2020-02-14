@@ -619,6 +619,14 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 28 : 16/02/2020 
 #### ahkhalwai
 
+### Day 29 : 14/02/2020 
+#### Polarbeargo
+
+* Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.  
+* Today I share assigned issues with @Aftab and see he capable fix this issue easily and always be a strong force, support, help, guide, and presentation with group showcase project. I'm very grateful have this chance to see @Aftab's growth, success, dedication, determination and help to fix the assigned task.
+* Thank you @Frida, @Anshu Trivedi, @Sarah Majors, @Aftab, Helena Barmer, Berenice Terway, @Sourav Das, @Pranjal Chaubey and @Harkirat for comfort me at the day I been attacked by a pack of stray dogs. I'm glad that this year, I can talk to you and tell you, I actually emotionally depressed for a few days even though I finally manage to back them all off and went to the emergency by myself.
+
+
 ### Day 29 : 17/02/2020 
 #### ahkhalwai
 
