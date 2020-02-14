@@ -598,6 +598,11 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 26 : 14/02/2020 
 #### ahkhalwai
 
+* Repeat Inference engine lesson
+* solve project bugs and back to another problem to solve :slightly_smiling_face: 
+* continue working hard on a project with @Bearbear @Anshu Trivedi @Sarah Majors @Frida @Harkirat 
+* Continue working on a project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar 
+
 ### Day 27 : 12/02/2020 
 #### Polarbeargo
 
