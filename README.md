@@ -637,3 +637,10 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 30 : 18/02/2020 
 #### ahkhalwai
+
+### Day 30: 15/02/2020 
+#### Polarbeargo
+
+* Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.  
+* Listen to @Aftab's question and guide him to the way be confident and capable solve the question by his own.
+* Thank you to Pranjal's host in the trading group and allow me take @Aftab and @Harkirat onboard. Today's code review is awesome.
