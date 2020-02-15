@@ -618,7 +618,7 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.  
 * Using what I learn from The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5 Deploying an edge app section 4 Handling Input Streams implement 'cv2.VideoCapture' lifecycle and 'cv2.VideoWriter' perform Aquarium fish detection.   
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/Xzhy08HFEeU/mq2.jpg?sqp=CN_9lPIF&rs=AOn4CLAlxEJwBrWPQP-KyI5C69meDyh_zA)](https://youtu.be/Xzhy08HFEeU)  
+[![](https://img.youtube.com/vi/Xzhy08HFEeU/0.jpg)](https://www.youtube.com/watch?v=Xzhy08HFEeU&feature=youtu.be)  
  
 
 ### Day 28 : 16/02/2020 
