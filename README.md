@@ -17,6 +17,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image13]: ./images/kubra3.jpeg
 [image14]: ./images/tf1.png
 [image15]: ./images/sd2.png
+[image16]: ./images/spaic1.png
 
 Collaborators:  
 
@@ -611,6 +612,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 27 : 15/02/2020 
 #### ahkhalwai
+
+* Back to The Intel® Edge AI Scholarship Foundation Course Nanodegree Lesson 5- Deploying an Edge App, 5.12 Handling Statistics and Images from a Node Server, 5.13 Exercise: Server Communications, 5.14 Solution: Server Communications
+* Attend the meeting with @Pranjal Chaubey @Bearbear :slightly_smiling_face: 
+* Attend the Virtual meetup of #sg_spaic channel :slightly_smiling_face: @Mariia @Gustavo Aguilar @Zarreen Reza etc etc
+* Continue working on a group project with @Bearbear @Anshu Trivedi @Sarah Majors @Frida @Harkirat 
+* Another project working with @Lakshmi Prasannakumar @Radhika Joshi @kübra doğmuş 
+![][image16]
 
 ### Day 28 : 13/02/2020 
 #### Polarbeargo
