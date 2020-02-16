@@ -18,6 +18,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image14]: ./images/tf1.png
 [image15]: ./images/sd2.png
 [image16]: ./images/spaic2.png
+[image17]: ./images/IEAISC.jpg
 
 Collaborators:  
 
@@ -631,6 +632,9 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 
 ### Day 28 : 16/02/2020 
 #### ahkhalwai
+
+![][image17]
+
 
 ### Day 29 : 14/02/2020 
 #### Polarbeargo
