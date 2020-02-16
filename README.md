@@ -652,3 +652,13 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Implement the Intel® Edge AI Scholarship group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree.  
 * Listen to @Aftab's question and guide him to the way be confident and capable solve the question by his own.
 * Thank you to Pranjal's host in the trading group and allow me take @Aftab and @Harkirat onboard. Today's code review is awesome.
+
+### Day 31: 16/02/2020 
+#### Polarbeargo
+
+* Reading Typical Memory Management Problems lesson 6 Smart Pointers section 5 Transferring Ownership from C plus plus Nanodegree program hope day by day I can manage to train my dragon.  
+* Today is Sunday for nurturing and relaxing watching 
+[![Vladimir Vapnik: Predicates, Invariants, and the Essence of Intelligence | AI Podcast](https://img.youtube.com/vi/bQa7hpUpMzM/0.jpg)](https://youtu.be/bQa7hpUpMzM)    
+[![Complete Statistical Theory of Learning (Vladimir Vapnik) | MIT Deep Learning Series](https://img.youtube.com/vi/Ow25mjFjSmg/0.jpg)](https://youtu.be/Ow25mjFjSmg) 
+* Continue 30 day of Udacity until the end of The Intel® Edge AI Scholarship Foundation Course Nanodegree with @Sarah Majors, @Aftab, @Anshu Trivedi, @Frida, @Harkirat simply because in the 2019 graduation ceremony we promise never give up.
+
