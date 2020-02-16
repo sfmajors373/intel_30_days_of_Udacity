@@ -633,6 +633,10 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 28 : 16/02/2020 
 #### ahkhalwai
 
+* Completed The Intel® Edge AI Scholarship Foundation Course Nanodegree.
+* Attended Virtual meetup with @Bearbear @Harkirat and solved big issued :slightly_smiling_face: 
+* Continue working on a project with @Bearbear @Sarah Majors @Frida @Harkirat @Anshu Trivedi 
+* Continue working on a project with @kübra doğmuş @Lakshmi Prasannakumar @Radhika Joshi 
 ![][image17]
 
 
