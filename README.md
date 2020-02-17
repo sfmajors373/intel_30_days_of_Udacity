@@ -651,6 +651,10 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 29 : 17/02/2020 
 #### ahkhalwai
 
+* Working on a project with @Bearbear @Harkirat @Sarah Majors @Frida @Anshu Trivedi 
+* solve many issues and closed it, still solving problems :slightly_smiling_face: 
+* working on a project with @kübra doğmuş @Lakshmi Prasannakumar @Radhika Joshi 
+
 ### Day 30 : 18/02/2020 
 #### ahkhalwai
 
