@@ -681,3 +681,10 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Reopen and close issues form the Intel® Edge AI Scholarship group project reply @Aftab's question and continue to fix issues with @Aftab and @Harkirat.
 * Assist Frida Success her first commit in the Intel® Edge AI Scholarship group project GitHub repo.
 * Yesterday 10:00 PM Taipei time 2nd Zoom video meeting with @Aftab and @Harkirat listen to @Aftab practice presentation and share the rest tasks. See @Aftab become a countable and strong helper. See his dedication, focusing and contribution to the Intel® Edge AI Scholarship group project. He becomes better and better day by day.
+
+### Day 33: 18/02/2020 
+#### Polarbeargo  
+* Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission System Architecture
+diagram and Flow Chart in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
+* Continue open and close issues form the Intel® Edge AI Scholarship showcase group project continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
+* Listen and consult with @Sarah Majors and @Aftab what kind license should we apply then applied for the license.
