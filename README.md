@@ -658,6 +658,12 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 ### Day 30 : 18/02/2020 
 #### ahkhalwai
 
+* Solving problems on SSD https://arxiv.org/pdf/1512.02325.pdf
+* Working on a project with @Bearbear @Harkirat @Sarah Majors @Frida @Anshu Trivedi we are almost reaching to complete our project by this week
+* Listen to @kübra doğmuş doubts and solve the issue on it, @kübra doğmuş doing very great :slightly_smiling_face: 
+* working on a project with @kübra doğmuş @Lakshmi Prasannakumar @Radhika Joshi 
+* Finally complete #30_days_udacity  Thanks to all :slightly_smiling_face: :heart: 
+
 ### Day 30: 15/02/2020 
 #### Polarbeargo
 
