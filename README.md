@@ -19,6 +19,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image15]: ./images/sd2.png
 [image16]: ./images/spaic2.png
 [image17]: ./images/IEAISC.jpg
+[image18]: ./images/30day.png
 
 Collaborators:  
 
@@ -700,4 +701,5 @@ diagram and Flow Chart in the readme and reading research references from The In
 * Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
 * Continue to reopen and close issues form the Intel® Edge AI Scholarship showcase group project continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
 * Listen to @Aftab's doubt, question and help him to the path find the answer he needs for his future career.
+* Today @Aftab assist me to find the URL to submit "I complete the 30 days of Udacity challenge". After saw the "I complete the 30 days of Udacity challenge", I'm very happy and glad to have this chance going through all the way with classmates:)! Thank you Udacity.
 * Today @Harkirat invites me to Google Hash Code which is my first time see this great event! Same as the day @Harkirat invites me to Secure & Private AI scholarship challenge. As we join the 1st AMA sessions, we saw a lot of people from different countries like festivals so many people here blow out my mind and can't hold my excitement and scream:D!
