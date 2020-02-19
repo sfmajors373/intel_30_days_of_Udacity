@@ -672,6 +672,15 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Listen to @Aftab's question and guide him to the way be confident and capable solve the question by his own.
 * Thank you to Pranjal's host in the trading group and allow me take @Aftab and @Harkirat onboard. Today's code review is awesome.
 
+### Day 31 : 19/02/2020 
+#### ahkhalwai
+
+* Continue working on the Intel® Edge AI Scholarship showcase group project 1st Submission with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat @Frida 
+* Continue working on the project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar 
+* Solving many issues on TensorFlow bugs as well for helping the community https://github.com/ahmetozlu/tensorflow_object_counting_api/issues/53
+* Thanks a lot to @Bearbear @Pranjal Chaubey for providing opportunities :slightly_smiling_face: 
+* Helping many as you can for the community that what udacity give you :slightly_smiling_face:
+
 ### Day 31: 16/02/2020 
 #### Polarbeargo
 
