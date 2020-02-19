@@ -694,3 +694,10 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 diagram and Flow Chart in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
 * Continue open and close issues form the Intel® Edge AI Scholarship showcase group project continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
 * Listen and consult with @Sarah Majors and @Aftab what kind license should we apply then applied for the license.
+
+### Day 34: 19/02/2020 
+#### Polarbeargo  
+* Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
+* Continue to reopen and close issues form the Intel® Edge AI Scholarship showcase group project continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
+* Listen to @Aftab's doubt, question and help him to the path find the answer he needs for his future career.
+* Today @Harkirat invites me to Google Hash Code which is my first time see this great event! Same as the day @Harkirat invites me to Secure & Private AI scholarship challenge. As we join the 1st AMA sessions, we saw a lot of people from different countries like festivals so many people here blow out my mind and can't hold my excitement and scream:D!
