@@ -712,3 +712,22 @@ diagram and Flow Chart in the readme and reading research references from The In
 * Listen to @Aftab's doubt, question and help him to the path find the answer he needs for his future career.
 * Today @Aftab assist me to find the URL to submit "I complete the 30 days of Udacity challenge". After saw the "I complete the 30 days of Udacity challenge", I'm very happy and glad to have this chance going through all the way with classmates:)! Thank you Udacity.
 * Today @Harkirat invites me to Google Hash Code which is my first time see this great event! Same as the day @Harkirat invites me to to apply for the Secure & Private AI scholarship challenge. As we join the 1st AMA sessions, we saw a lot of people from different countries like festivals so many people here blow out my mind and can't hold my excitement and scream:D!
+
+### Day 35: 20/02/2020 
+#### Polarbeargo  
+* Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
+* Continue to reopen and close issues form the Intel® Edge AI Scholarship showcase group project continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
+* Listen to @Aftab's doubt, question and help him to the path find the answer he needs.
+* Enjoy my time with Computer Vision Nanodegree program extracurricular 6. C++ Programming.
+* Reading C plus plus Nanodegree program the beautiful Memory Management Chatbot project, yestesrday my mentor Renaud help me connect the imagination of share pointer base on Dynamic Memory Allocation (The Heap) for better memory management in the 1 vs 1 zoom video call and encourage me to enjoy the time with Memory Management Chatbot project.  
+* Today I told @Harkirat that Google Hash code will be 1:30 AM in Taipei and I will be a zombie form at that time. @Harkirat told me, It's okay he only needs me to be there. This is the first time in my life people accept my zombie polarbear elf student form.
+* Reading Kaggle:  
+[Deepfake Detection Challenge Identify videos with facial or voice manipulations](https://www.kaggle.com/c/deepfake-detection-challenge)  
+[Real or Not? NLP with Disaster Tweets
+Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)  
+[DS4G: Environmental Insights Explorer
+Exploring alternatives for emissions factor calculations](https://www.kaggle.com/c/ds4g-environmental-insights-explorer)  
+[Flower Classification with TPUs
+Use TPUs to classify 104 types of flowers](https://www.kaggle.com/c/flower-classification-with-tpus)  
+[ImageNet Object Localization Challenge
+Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localization-challenge)
