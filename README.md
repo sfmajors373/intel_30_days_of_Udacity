@@ -719,8 +719,8 @@ diagram and Flow Chart in the readme and reading research references from The In
 * Continue to reopen and close issues form the Intel® Edge AI Scholarship showcase group project continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
 * Listen to @Aftab's doubt, question and help him to the path find the answer he needs.
 * Enjoy my time with Computer Vision Nanodegree program extracurricular 6. C++ Programming.
-* Reading C plus plus Nanodegree program the beautiful Memory Management Chatbot project, yestesrday my mentor Renaud help me connect the imagination of share pointer base on Dynamic Memory Allocation (The Heap) for better memory management in the 1 vs 1 zoom video call and encourage me to enjoy the time with Memory Management Chatbot project.  
-* Today I told @Harkirat that Google Hash code will be 1:30 AM in Taipei and I will be a zombie form at that time. @Harkirat told me, It's okay he only needs me to be there. This is the first time in my life people accept my zombie polarbear elf student form.
+* Reading C plus plus Nanodegree program the beautiful Memory Management Chatbot project, yesterday my mentor Renaud help me connect the imagination of share pointer base on Dynamic Memory Allocation (The Heap) for better memory management in the 1 vs 1 zoom video call and encourage me to enjoy the time with Memory Management Chatbot project.  
+* Today I told @Harkirat that Google Hash code will be 1:30 AM in Taipei and I will be a zombie form at that time. @Harkirat told me, It's okay he only needs me to be there. This is the first time in my life people accept my zombie polar bear elf student form.
 * Reading Kaggle:  
 [Deepfake Detection Challenge Identify videos with facial or voice manipulations](https://www.kaggle.com/c/deepfake-detection-challenge)  
 [Real or Not? NLP with Disaster Tweets
