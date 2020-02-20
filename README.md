@@ -690,6 +690,14 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 [![Complete Statistical Theory of Learning (Vladimir Vapnik) | MIT Deep Learning Series](https://img.youtube.com/vi/Ow25mjFjSmg/0.jpg)](https://youtu.be/Ow25mjFjSmg) 
 * Continue 30 day of Udacity until the end of The Intel® Edge AI Scholarship Foundation Course Nanodegree with @Sarah Majors, @Aftab, @Anshu Trivedi, @Frida, @Harkirat simply because in the 2019 graduation ceremony we promise never give up.
 
+### Day 32 : 20/02/2020 
+#### ahkhalwai
+
+* Continue working on the Intel® Edge AI Scholarship showcase group project 1st Submission with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat @Frida 
+* Continue working on the project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar
+* Stuck with API on my problem, still solving it  
+* Guiding teenagers to choose the there correct career path :slightly_smiling_face: 
+
 ### Day 32: 17/02/2020 
 #### Polarbeargo
 
