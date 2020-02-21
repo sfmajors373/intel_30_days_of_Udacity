@@ -738,4 +738,11 @@ Exploring alternatives for emissions factor calculations](https://www.kaggle.com
 [Flower Classification with TPUs
 Use TPUs to classify 104 types of flowers](https://www.kaggle.com/c/flower-classification-with-tpus)  
 [ImageNet Object Localization Challenge
-Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localization-challenge)
+Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localization-challenge)  
+
+### Day 36: 21/02/2020 
+#### Polarbeargo  
+* Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
+* Continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
+* Continue reading C plus plus Nanodegree program Memory Management Chatbot project, After Robotics Software Engineer Nanodegree program, C plus plus Nanodegree program is the best present I decided to give to myself to learn how to train my dragon with The Intel® Edge AI Scholarship Foundation Course Nanodegree. I wait it for so long! C plus plus Nanodegree program has a huge fascination reading reference and guides me to the CppCon which is so exciting! I would like to pat my C plus plus Nanodegree program give it a hug and said thank you that I love you for teaching me and help me with my reading! I super love my C plus plus Nanodegree program materials:).
+* My mentor Renaud told me about the exciting Sensor Fusion Nanodegree program! Reading the syllabus is the fun part to ask my heart when I will be ready for the Sensor Fusion Nanodegree program.
