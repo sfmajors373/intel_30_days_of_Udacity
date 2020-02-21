@@ -706,6 +706,16 @@ feel very nurturing:D! I hope every night before falling asleep, I can feel wow 
 * Assist Frida Success her first commit in the Intel® Edge AI Scholarship group project GitHub repo.
 * Yesterday 10:00 PM Taipei time 2nd Zoom video meeting with @Aftab and @Harkirat listen to @Aftab practice presentation and share the rest tasks. See @Aftab become a countable and strong helper. See his dedication, focusing and contribution to the Intel® Edge AI Scholarship group project. He becomes better and better day by day.
 
+### Day 33 : 21/02/2020 
+#### ahkhalwai
+
+* Continue working on the Intel® Edge AI Scholarship showcase group project 1st Submission with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat 
+* Continue working on the project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar
+* Create a group for Data Structure and algorithms learning, anyone wants to join so DM me
+* Listen @Shaistha and solve her problems 
+* I talk to @Asha today and she is doing great :slightly_smiling_face: 
+* Meet new people here and their journey is incredible :slightly_smiling_face:
+
 ### Day 33: 18/02/2020 
 #### Polarbeargo  
 * Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission System Architecture
