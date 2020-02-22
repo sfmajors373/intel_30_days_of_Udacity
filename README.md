@@ -723,6 +723,17 @@ diagram and Flow Chart in the readme and reading research references from The In
 * Continue open and close issues form the Intel® Edge AI Scholarship showcase group project continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
 * Listen and consult with @Sarah Majors and @Aftab what kind license should we apply then applied for the license.
 
+### Day 34 : 22/02/2020 
+#### ahkhalwai
+
+* Continue working on the Intel® Edge AI Scholarship showcase group project 1st Submission with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat 
+* Continue working on the project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar
+* Attend the meeting with  #sg_spaic 
+* @Rubenia Borge is appreciated my work and  now i become a fan of her :slightly_smiling_face: 
+* @Bearbear guiding me correct path on our projects :slightly_smiling_face: :heart: 
+* Form a very good team of people for data structure and algorithm learning :slightly_smiling_face: 
+* I will help as many as I can for you all community :slightly_smiling_face: 
+
 ### Day 34: 19/02/2020 
 #### Polarbeargo  
 * Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
