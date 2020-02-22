@@ -762,5 +762,5 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Yesterday Listen to @aftab’s worries and told him it’s actually okay and how to handle it in the right way.
 * Yesterday participate Google Hash code be there for @Harkirat and see his success on his own.
 * Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program.
-* Replay C plus plus Nanodegree program  5. Concurrency Lesson 1 Introduction and Running Threads section 1 Introduction and section 2 Processes and Threads. Listen to Professor Andreas Haji’s gentle voice told us about his story and describe Concurrency extremely elegantly!
+* Replay C plus plus Nanodegree program  5. Concurrency Lesson 1 Introduction and Running Threads section 1 Introduction and section 2 Processes and Threads. Listen to Professor Andreas Haja’s gentle voice told us about his story and describe Concurrency extremely elegantly!
 * Saturday afternoon simply listen to the rainfall for all afternoon rest.
