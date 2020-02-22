@@ -756,3 +756,11 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Continue to fix issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
 * Continue reading C plus plus Nanodegree program Memory Management Chatbot project, After Robotics Software Engineer Nanodegree program, C plus plus Nanodegree program is the best present I decided to give to myself to learn how to train my dragon with The Intel® Edge AI Scholarship Foundation Course Nanodegree. I wait it for so long! C plus plus Nanodegree program has a huge fascination reading reference and guides me to the CppCon which is so exciting! I would like to pat my C plus plus Nanodegree program give it a hug and said thank you that I love you for teaching me and help me with my reading! I super love my C plus plus Nanodegree program materials:).
 * My mentor Renaud told me about the exciting Sensor Fusion Nanodegree program! Reading the syllabus is the fun part to ask my heart when I will be ready for the Sensor Fusion Nanodegree program.
+
+### Day 37: 22/02/2020 
+#### Polarbeargo 
+* Yesterday Listen to @aftab’s worries and told him it’s actually okay and how to handle it in the right way.
+* Yesterday participate Google Hash code be there for @Harkirat and see his success on his own.
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program.
+* Replay C plus plus Nanodegree program  5. Concurrency Lesson 1 Introduction and Running Threads section 1 Introduction and section 2 Processes and Threads. Listen to Professor Andreas Haji’s gentle voice told us about his story and describe Concurrency extremely elegantly!
+* Saturday afternoon simply listen to the rainfall for all afternoon rest.
