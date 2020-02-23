@@ -20,6 +20,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image16]: ./images/spaic2.png
 [image17]: ./images/IEAISC.jpg
 [image18]: ./images/30day.png
+[image19]: ./images/MIT.png
 
 Collaborators:  
 
@@ -775,3 +776,10 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program.
 * Replay C plus plus Nanodegree program  5. Concurrency Lesson 1 Introduction and Running Threads section 1 Introduction and section 2 Processes and Threads. Listen to Professor Andreas Haja’s gentle voice told us about his story and describe Concurrency extremely elegantly!
 * Saturday afternoon simply listen to the rainfall for all afternoon rest.
+
+### Day 38: 23/02/2020 
+#### Polarbeargo 
+
+* Reading and implementing Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program. In the last 1 vs 1 video call with my mentor Renaud, he told me about `make_shared` and `make_unique`. Today I try to Implement make_unique to use the smart pointer in Task 1: Exclusive Ownership.
+* Today I open the email from MIT found out the new lectures in Blockchain, one of my wish to enroll list in 2018. This year even have face to face events!!
+![][image19]
