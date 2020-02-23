@@ -743,6 +743,14 @@ diagram and Flow Chart in the readme and reading research references from The In
 * Today @Aftab assist me to find the URL to submit "I complete the 30 days of Udacity challenge". After saw the "I complete the 30 days of Udacity challenge", I'm very happy and glad to have this chance going through all the way with classmates:)! Thank you Udacity.
 * Today @Harkirat invites me to Google Hash Code which is my first time see this great event! Same as the day @Harkirat invites me to to apply for the Secure & Private AI scholarship challenge. As we join the 1st AMA sessions, we saw a lot of people from different countries like festivals so many people here blow out my mind and can't hold my excitement and scream:D!
 
+### Day 35 : 23/02/2020 
+#### ahkhalwai
+
+* Continue working on the Intel® Edge AI Scholarship showcase group project 1st Submission with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat
+* Continue working on the project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar
+* Attend the meeting with @Bearbear @Anshu Trivedi @Harkirat 
+* learn so many things regarding GitHub today Thanks @Bearbear @Harkirat 
+
 ### Day 35: 20/02/2020 
 #### Polarbeargo  
 * Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
