@@ -791,3 +791,11 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Reading and implementing Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program. In the last 1 vs 1 video call with my mentor Renaud, he told me about `make_shared` and `make_unique`. Today I try to Implement make_unique to use the smart pointer in Task 1: Exclusive Ownership.
 * Today I open the email from MIT found out the new lectures in Blockchain, one of my wish to enroll list in 2018. This year even have face to face events!!
 ![][image19]
+
+### Day 39: 24/02/2020 
+#### Polarbeargo 
+
+* Continue writing the Intel® Edge AI Scholarship showcase group project and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
+* Continue to fix and reopen issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
+* Yesterday zoom meeting with  @Aftab, @Harkirat, and @Anshu Trivedi. In this, the Intel® Edge AI Scholarship showcase group project, I really proud of @aftab see his persistence and start to carry up things to build his ability. He amazed me.
+* Thank you @Harkirat for constantly encouraging and be there for me even the bad days.
