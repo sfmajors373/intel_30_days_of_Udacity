@@ -770,6 +770,14 @@ Use TPUs to classify 104 types of flowers](https://www.kaggle.com/c/flower-class
 [ImageNet Object Localization Challenge
 Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localization-challenge)  
 
+### Day 36 : 24/02/2020 
+#### ahkhalwai
+
+* Continue working on the Intel® Edge AI Scholarship showcase group project 1st Submission with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat
+* Continue working on the project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar
+* Almost complete my project and ready for submit soon 
+
+
 ### Day 36: 21/02/2020 
 #### Polarbeargo  
 * Continue writing the Intel® Edge AI Scholarship showcase group project 1st Submission in the readme and reading research references from The Intel® Edge AI Scholarship Foundation Course Nanodegree. 
