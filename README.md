@@ -785,6 +785,14 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Continue reading C plus plus Nanodegree program Memory Management Chatbot project, After Robotics Software Engineer Nanodegree program, C plus plus Nanodegree program is the best present I decided to give to myself to learn how to train my dragon with The Intel® Edge AI Scholarship Foundation Course Nanodegree. I wait it for so long! C plus plus Nanodegree program has a huge fascination reading reference and guides me to the CppCon which is so exciting! I would like to pat my C plus plus Nanodegree program give it a hug and said thank you that I love you for teaching me and help me with my reading! I super love my C plus plus Nanodegree program materials:).
 * My mentor Renaud told me about the exciting Sensor Fusion Nanodegree program! Reading the syllabus is the fun part to ask my heart when I will be ready for the Sensor Fusion Nanodegree program.
 
+### Day 37 : 25/02/2020 
+#### ahkhalwai
+
+* Complete the Intel® Edge AI Scholarship showcase group project 2nd Submission with @Bearbear @Anshu Trivedi @Sarah Majors @Harkirat, soon submit the form as well :) 
+* Complete the project with @kübra doğmuş @Radhika Joshi @Lakshmi Prasannakumar soon the submit form as well
+* Participate in Ama 
+* Participate in zoom meetup with @Muhammad.Ali 
+
 ### Day 37: 22/02/2020 
 #### Polarbeargo 
 * Yesterday Listen to @aftab’s worries and told him it’s actually okay and how to handle it in the right way.
