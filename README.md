@@ -807,3 +807,10 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Continue to fix and reopen issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi.
 * Yesterday zoom meeting with  @Aftab, @Harkirat, and @Anshu Trivedi. In this, the Intel® Edge AI Scholarship showcase group project, I really proud of @aftab see his persistence and start to carry up things to build his ability. He amazed me.
 * Thank you @Harkirat for constantly encouraging and be there for me even the bad days.
+
+### Day 40: 25/02/2020 
+#### Polarbeargo 
+
+* Continue to fix and close issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi preparing our submission:D. 
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program. Continue to try to implement `std::unique_ptr` to use the smart pointer in Task 3: Exclusive Ownership 2.
+* I feel happiness every time we communicate and exchange our thoughts in slack with each other. Thank you for being there.
