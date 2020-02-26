@@ -822,3 +822,10 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Continue to fix and close issues with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi preparing our submission:D. 
 * Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program. Continue to try to implement `std::unique_ptr` to use the smart pointer in Task 3: Exclusive Ownership 2.
 * I feel happiness every time we communicate and exchange our thoughts in slack with each other. Thank you for being there.
+
+### Day 41: 26/02/2020 
+#### Polarbeargo 
+
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program. Try to implement `std::move(_chatBot)` in Task 4 : Moving Smart Pointers.
+* Today finally submit the Intel® Edge AI Scholarship showcase group project with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi. Talking with @Aftab said we should buy a coke to celebrate this moment.  
+[![](https://img.youtube.com/vi/hGseddxBI_g/0.jpg)](https://youtu.be/hGseddxBI_g)  
