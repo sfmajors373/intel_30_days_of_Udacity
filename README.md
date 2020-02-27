@@ -828,4 +828,15 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 
 * Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program. Try to implement `std::move(_chatBot)` in Task 4 : Moving Smart Pointers.
 * Today finally submit the Intel® Edge AI Scholarship showcase group project with @Frida, @Sarah Majors, @Aftab, @Harkirat, and @Anshu Trivedi. Talking with @Aftab said we should buy a coke to celebrate this moment.  
-[![](https://img.youtube.com/vi/hGseddxBI_g/0.jpg)](https://youtu.be/hGseddxBI_g)  
+[![](https://img.youtube.com/vi/hGseddxBI_g/0.jpg)](https://youtu.be/hGseddxBI_g) 
+
+### Day 42: 27/02/2020 
+#### Polarbeargo 
+
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program. Implement a communication handle between GUI and ChatBot inst in Task 5: Moving the ChatBot.
+* Reading Lesson 5 Resource Copy policies again and find some good resource to help me understand Resource Copy policies:  
+      * [MOVE SEMANTICS](https://mbevin.wordpress.com/2012/11/20/move-semantics/)  
+      * [Lvalues and Rvalues (C++)](https://docs.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=vs-2019)  
+* Listen to @Aftab's question and doubt then reply to him with the answer and action he needs.
+* Plan to rereading Intel® Edge AI Scholarship Foundation Course Nanodegree Program Lesson 4 The Inference Engine section 8 Asynchronous Requests and the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program.
+* Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming section 22 Forge on in my mind.
