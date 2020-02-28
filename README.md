@@ -21,6 +21,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image17]: ./images/IEAISC.jpg
 [image18]: ./images/30day.png
 [image19]: ./images/MIT.png
+[image20]: ./images/ETSX.png
 
 Collaborators:  
 
@@ -840,3 +841,17 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 * Listen to @Aftab's question and doubt then reply to him with the answer and action he needs.
 * Plan to rereading Intel® Edge AI Scholarship Foundation Course Nanodegree Program Lesson 4 The Inference Engine section 8 Asynchronous Requests and the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program.
 * Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming section 22 Forge on in my mind.
+
+### Day 43: 28/02/2020 
+#### Polarbeargo 
+
+* Spent a brief of time reading [Real or Not? NLP with Disaster Tweets
+Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)  
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program and Implement Memory Management Chatbot.  
+* Continue reading Lesson 5 Resource Copy policies again and reading some good resource to help me understand Resource Copy policies and noexcept specifier (since C++11):  
+   * [MOVE SEMANTICS](https://mbevin.wordpress.com/2012/11/20/move-semantics/)  
+   * [noexcept specifier (since C++11)](https://en.cppreference.com/w/cpp/language/noexcept_spec)      
+* Immerse myself in the beautiful writing history of C plus plus, hands-on quiz and documentation from Computer Vision Nanodegree program extracurricular 6. C++ Programming to Lesson 3 Practical C++ section 1 Introduction to Compilation to section 4 Structuring Functions and File Organization.  
+* Today I watched two movies "The Call of the wild" and "The Grudge".  
+* Today I Open my edX dashboard want to continue finish week 4 Speaking found out my lovely certification from ETSX! I really love this course. A lot of topics covered in this lecture including Science, psychology, ancient history of language. The Nomads society and history. This is my first language certification from edX. Every moment like this, My gratitude to Sir David payne and the founder of edX! Thank you for the awsome lecture materials!! Every time before sleep, It's happiness that those beautiful part inside the Lecture materials comes up into my mind and I feel those lectures are fun and playful.  
+![][image20]
