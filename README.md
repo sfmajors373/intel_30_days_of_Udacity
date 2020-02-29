@@ -22,6 +22,8 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image18]: ./images/30day.png
 [image19]: ./images/MIT.png
 [image20]: ./images/ETSX.png
+[image21]: ./images/wall.png
+[image22]: ./images/wall2.png
 
 Collaborators:  
 
@@ -855,3 +857,14 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 * Today I watched two movies "The Call of the wild" and "The Grudge".  
 * Today I Open my edX dashboard want to continue finish week 4 Speaking found out my lovely certification from ETSX! I really love this course. A lot of topics covered in this lecture including Science, psychology, ancient history of language. The Nomads society and history. This is my first language certification from edX. Every moment like this, My gratitude to Sir David payne and the founder of edX! Thank you for the awsome lecture materials!! Every time before sleep, It's happiness that those beautiful part inside the Lecture materials comes up into my mind and I feel those lectures are fun and playful.  
 ![][image20]
+
+### Day 44: 29/02/2020 
+#### Polarbeargo 
+
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program and Implementing resource copy policies in Memory Management Chatbot project.  
+* Yesterday is 1 vs 1 video call with Renaud, he provides me awesome references to understand resource copy policies:  
+   * [C++ and Beyond 2012: Scott Meyers - Universal References in C++11](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Universal-References-in-Cpp11)  
+   * [Herb Sutter on Modern C++ Essentials)](https://www.infoq.com/news/2014/10/modern-cpp-essentials/)  
+* Today see our names on the [Intel® Edge AI Scholarship Program HONORABLE MENTIONS WALL](https://sites.google.com/udacity.com/intel-edge-ai-scholarship/community/30-days-of-udacity/honorable-mentions-wall?authuser=0&fbclid=IwAR2FBLYrPHzLSgEq_n85K_DT41gqdCTLr4PgXfezPx-dKQN4QlY49_ATmTA) feeling grateful and thank you Udacity let us find our names on it and have a star beside our name.
+![][image21]
+![][image22]
