@@ -868,7 +868,7 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 * Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program and Implementing resource copy policies in Memory Management Chatbot project.  
 * Yesterday is 1 vs 1 video call with Renaud, he provides me awesome references to understand resource copy policies:  
    * [C++ and Beyond 2012: Scott Meyers - Universal References in C++11](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Universal-References-in-Cpp11)  
-   * [Herb Sutter on Modern C++ Essentials)](https://www.infoq.com/news/2014/10/modern-cpp-essentials/)  
+   * [Herb Sutter on Modern C++ Essentials](https://www.infoq.com/news/2014/10/modern-cpp-essentials/)  
 * Today see our names on the [Intel® Edge AI Scholarship Program HONORABLE MENTIONS WALL](https://sites.google.com/udacity.com/intel-edge-ai-scholarship/community/30-days-of-udacity/honorable-mentions-wall?authuser=0&fbclid=IwAR2FBLYrPHzLSgEq_n85K_DT41gqdCTLr4PgXfezPx-dKQN4QlY49_ATmTA) feeling grateful and thank you Udacity let us find our names on it and have a star beside our name.
 ![][image21]
 ![][image22]
@@ -882,5 +882,5 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 
 * Reading:  
    * [C++ and Beyond 2012: Scott Meyers - Universal References in C++11](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Universal-References-in-Cpp11)  
-   * [Herb Sutter on Modern C++ Essentials)](https://www.infoq.com/news/2014/10/modern-cpp-essentials/)  
+   * [Herb Sutter on Modern C++ Essentials](https://www.infoq.com/news/2014/10/modern-cpp-essentials/)  
 * Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming lesson 4 Object oriented programming section 1 Introduction. I extremely love this section and listen to Sir Sebastian Thrun's gentle face said "C plus plus is a lifelong learning opportunity".
