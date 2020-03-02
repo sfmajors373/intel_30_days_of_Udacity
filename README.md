@@ -884,3 +884,21 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
    * [C++ and Beyond 2012: Scott Meyers - Universal References in C++11](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Universal-References-in-Cpp11)  
    * [Herb Sutter on Modern C++ Essentials](https://www.infoq.com/news/2014/10/modern-cpp-essentials/)  
 * Replay Computer Vision Nanodegree program extracurricular 6. C++ Programming lesson 4 Object oriented programming section 1 Introduction. I extremely love this section and listen to Sir Sebastian Thrun's gentle face said "C plus plus is a lifelong learning opportunity".
+
+### Day 46: 02/03/2020 
+#### Polarbeargo  
+
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program, Implementing and debugging resource copy policies in Memory Management Chatbot project.  
+* Reading:  
+   * [C++ and Beyond 2012: Scott Meyers - Universal References in C++11](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Universal-References-in-Cpp11)  
+   * [Herb Sutter on Modern C++ Essentials](https://www.infoq.com/news/2014/10/modern-cpp-essentials/) 
+* Reading C plus plus Nanodegree program 5. Concurrency Lesson 1 Introduction and running thread section 2 Processes and Threads.
+* Reading [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python). Thank you Sir David J. Malan ❤️ :slightly_smiling_face: and the founder of edX ❤️ :slightly_smiling_face: !
+* Recently watching Sir Lex Fridman's podcast for nurturing, learning and relax. Thank you Sir Lex Fridman :slightly_smiling_face: ❤️ :
+[![](https://img.youtube.com/vi/DKyzcbNr8WE/0.jpg)](https://youtu.be/DKyzcbNr8WE)
+[![](https://img.youtube.com/vi/GFB0o1QQyLw/0.jpg)](https://youtu.be/GFB0o1QQyLw)  
+[![](https://img.youtube.com/vi/EYIKy_FM9x0/0.jpg)](https://youtu.be/EYIKy_FM9x0)  
+[![](https://img.youtube.com/vi/E1AxVXt2Gv4/0.jpg)](https://youtu.be/E1AxVXt2Gv4)     
+[![](https://img.youtube.com/vi/DCjeM3Sei-s/0.jpg)](https://youtu.be/DCjeM3Sei-s)    
+[![](https://img.youtube.com/vi/0jspaMLxBig/0.jpg)](https://youtu.be/0jspaMLxBig)     
+
