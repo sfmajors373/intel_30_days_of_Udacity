@@ -902,3 +902,21 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 [![](https://img.youtube.com/vi/DCjeM3Sei-s/0.jpg)](https://youtu.be/DCjeM3Sei-s)    
 [![](https://img.youtube.com/vi/0jspaMLxBig/0.jpg)](https://youtu.be/0jspaMLxBig)     
 
+### Day 47: 03/03/2020 
+#### Polarbeargo 
+* Reading Memory Management Chatbot section 5 Code Walkthrough from C plus plus Nanodegree program, focus on debugging resource copy policies in Memory Management Chatbot project. 
+* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program.
+* Reading C plus plus Nanodegree program 5. Concurrency Lesson 1 Introduction and running thread section 2 Processes and Threads.
+* Reading:  
+   * [C++ and Beyond 2012: Scott Meyers - Universal References in C++11](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Universal-References-in-Cpp11)  
+   * [Herb Sutter on Modern C++ Essentials](https://www.infoq.com/news/2014/10/modern-cpp-essentials/)  
+   * [C++ Rvalue References Explained](http://thbecker.net/articles/rvalue_references/section_01.html)  
+   * [Open Images 2019 - Object Detection
+Detect objects in varied and complex images](https://www.kaggle.com/c/open-images-2019-object-detection/overview)  
+   * [2018 Data Science Bowl
+Find the nuclei in divergent images to advance medical discovery](https://www.kaggle.com/c/data-science-bowl-2018/overview)  
+   * [Deepfake Detection Challenge Identify videos with facial or voice manipulations](https://www.kaggle.com/c/deepfake-detection-challenge)  
+   * [Real or Not? NLP with Disaster Tweets
+Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)  
+* Watching:   
+[![](https://img.youtube.com/vi/l5Uw8qG7vZU/0.jpg)](https://youtu.be/l5Uw8qG7vZU) 
