@@ -920,3 +920,11 @@ Find the nuclei in divergent images to advance medical discovery](https://www.ka
 Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)  
 * Watching:   
 [![](https://img.youtube.com/vi/l5Uw8qG7vZU/0.jpg)](https://youtu.be/l5Uw8qG7vZU) 
+
+### Day 48: 04/03/2020 
+#### Polarbeargo 
+
+* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program.
+* Today after the talk to my mentor Renaud from C plus plus Nanodegree program, I finally be able to fix my resource copy policies bug! Focus on continuing debugging Memory Management Chatbot project. I super enjoy the time 1 vs 1 video call with my mentor Renaud. I super love the knowledge I learned from the C plus plus Nanodegree program continue train my dragon :slightly_smiling_face: !
+![][image27]
+* Reading C plus plus Nanodegree program 5. Concurrency Lesson 1 Introduction and running thread section 6 Running Multiple Threads.
