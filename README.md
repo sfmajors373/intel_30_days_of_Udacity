@@ -945,3 +945,12 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 * Continuing debugging errors in graphnode.cpp from Memory Management Chatbot project.
 * Listen to @aftab's question and guide him with the actions he needs. Today is the first day I saw @aftab achieved extract sentiment data on his own while review his work, I feel proud of him.
 * Today Urvi Soni ask me about how to enroll in [CS234: Reinforcement Learning Winter 2020](http://web.stanford.edu/class/cs234/index.html?fbclid=IwAR1M_suGbOVt0g-XT4oi7MPuqlJ7k1hnm1gzpL1SSM0u2IqnYntZOl88XXE). I'm very impressed by this young one, I meet from CS50X 2018. After replying to her to the [Information for SCPD Course CAs](https://ee.stanford.edu/student-resources/CA-appointments/helpful-information/SCPD?fbclid=IwAR1AXh3FXUXRtqjoCMhx2RWL4ZCw9OC-aCqColn5Q9h1DAOb7rT9uGAd6RM), She said Thank you so much for the help with :slightly_smiling_face: smilly face this is the happiest moment of my day. Can Senior Polar bear elf student secretly follow your enrollment :slightly_smiling_face:? I love Reinforcement Learning,too!
+
+### Day 51: 07/03/2020 
+#### Polarbeargo 
+
+* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program.
+* Continuing debugging errors in graphnode.cpp from Memory Management Chatbot project.
+* Watching [GRETEL & HANSEL](https://www.youtube.com/watch?v=6ZgkHjpUM8w)
+* Watching Webinar with OpenVINO and AI experts, Zoe and Anna.
+* Enjoying Pranjal's talk about crypto market in Fire trading group. I feel we are moving forward each meeting :slightly_smiling_face:!
