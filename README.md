@@ -29,6 +29,7 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image25]: ./images/wall5.png
 [image26]: ./images/wall6.png
 [image27]: ./images/selfie.png
+[image28]: ./images/chatbot.gif
 
 Collaborators:  
 
@@ -954,3 +955,12 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 * Watching [GRETEL & HANSEL](https://www.youtube.com/watch?v=6ZgkHjpUM8w)
 * Watching Webinar with OpenVINO and AI experts, Zoe and Anna.
 * Enjoying Pranjal's talk about crypto market in Fire trading group. I feel we are moving forward each meeting :slightly_smiling_face:!
+
+### Day 52: 08/03/2020 
+#### Polarbeargo  
+* After talking to my mentor Renaud, I finally be able to fix the last compiler error from Memory Management Chatbot project and submit to my 1st review.
+* Reading my 1st review, I'm extremely happy that my reviewer taught me how to use `std::make_unique`, `std::unique_ptr` and `std::make_unique` in  Memory Management Chatbot project and have a smiley face and Udacity logo on it said "It was a good first attempt. You are going great !! :smile:". Thank you Udacity reviewer! I will cherish my review and continue fix my project with the lovely review I have.  
+![][image28]  
+* High resolution demo on Youtube :  
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nYCe-sWHGF8/0.jpg)](https://youtu.be/nYCe-sWHGF8) 
