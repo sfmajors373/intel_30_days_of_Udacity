@@ -967,7 +967,7 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 
 ### Day 53: 09/03/2020 
 #### Polarbeargo  
-* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program think each application usecsae.
+* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program think each application use case.
 * Continue reading my 1st review and fixing Memory Management Chatbot project from C plus plus Nanodegree program.
 * Reading Kaggle:
    * [University of Liverpool - Ion Switching
