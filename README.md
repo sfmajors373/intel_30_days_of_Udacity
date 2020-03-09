@@ -964,3 +964,14 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 * High resolution demo on Youtube :  
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nYCe-sWHGF8/0.jpg)](https://youtu.be/nYCe-sWHGF8) 
+
+### Day 53: 09/03/2020 
+#### Polarbeargo  
+* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program think each application usecsae.
+* Continue reading my 1st review and fixing Memory Management Chatbot project from C plus plus Nanodegree program.
+* Reading Kaggle:
+   * [University of Liverpool - Ion Switching
+Identify the number of channels open at each time point](https://www.kaggle.com/c/liverpool-ion-switching)  
+   * [Deepfake Detection Challenge Identify videos with facial or voice manipulations](https://www.kaggle.com/c/deepfake-detection-challenge)  
+   * [Real or Not? NLP with Disaster Tweets
+Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)  
