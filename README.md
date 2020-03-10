@@ -29,7 +29,8 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image25]: ./images/wall5.png
 [image26]: ./images/wall6.png
 [image27]: ./images/selfie.png
-[image28]: ./images/chatbot.gif
+[image28]: ./images/chatbot.gif  
+[image29]: ./images/mosquito_eggs.png
 
 Collaborators:  
 
@@ -974,4 +975,28 @@ Predict which Tweets are about real disasters and which ones are not](https://ww
 Identify the number of channels open at each time point](https://www.kaggle.com/c/liverpool-ion-switching)  
    * [Deepfake Detection Challenge Identify videos with facial or voice manipulations](https://www.kaggle.com/c/deepfake-detection-challenge)  
    * [Real or Not? NLP with Disaster Tweets
+Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)
+
+### Day 54: 10/03/2020 
+#### Polarbeargo  
+
+* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program think each application use case.
+* Continue reading my 1st review and fixing Memory Management Chatbot project from C plus plus Nanodegree program.  
+* Watching:  
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LCZRGaFgqyk/0.jpg)](https://youtu.be/LCZRGaFgqyk)  
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WgLo4gmEraU/0.jpg)](https://youtu.be/WgLo4gmEraU)  
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7jFdxd1qX2g/0.jpg)](https://youtu.be/7jFdxd1qX2g)
+* Reading Kaggle:
+   * [University of Liverpool - Ion Switching
+Identify the number of channels open at each time point](https://www.kaggle.com/c/liverpool-ion-switching)  
+   * [Deepfake Detection Challenge Identify videos with facial or voice manipulations](https://www.kaggle.com/c/deepfake-detection-challenge)  
+   * [Real or Not? NLP with Disaster Tweets
 Predict which Tweets are about real disasters and which ones are not](https://www.kaggle.com/c/nlp-getting-started)  
+   * [ImageNet Object Localization Challenge
+Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localization-challenge/data)
+   
+* Today is my first day, I finally applied The Knowledge, I learned from Sir Sebastian Thrun, Udacity Professors, Instructors, PyTorch, and FastAi achieved apply deep learning for disease control.
+A lot of start point is from Sir Sebastian Thrun's paper: https://cs.stanford.edu/people/esteva/nature/
+I'll continually improve and level up my kernel pipeline to apply state of the art new research reference provided by the Intel edge AI Scholarship Nanodegree program hope it will work. Thank you Sir. Sebastian Thrun, I finally managed to fulfill a little step of one of my presentations back in 2018 Use Artificial Intelligence and Machine Learning help with disease control.  
+![][image29] 
