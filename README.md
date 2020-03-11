@@ -1000,3 +1000,24 @@ Identify the objects in images](https://www.kaggle.com/c/imagenet-object-localiz
 A lot of start point is from Sir Sebastian Thrun's paper: https://cs.stanford.edu/people/esteva/nature/
 I'll continually improve and level up my kernel pipeline to apply state of the art new research reference provided by the Intel edge AI Scholarship Nanodegree program hope it will work. Thank you Sir. Sebastian Thrun, I finally managed to fulfill a little step of one of my presentations back in 2018 Use Artificial Intelligence and Machine Learning help with disease control.  
 ![][image29] 
+
+### Day 55: 11/03/2020 
+#### Polarbeargo  
+
+* Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program think each application use case.
+* Continue reading my 1st review and fixing Memory Management Chatbot project from C plus plus Nanodegree program.  
+* Watching:  
+
+   [![CppCon 2014: Scott Meyers "Type Deduction and Why You Care"](https://img.youtube.com/vi/wQxj20X-tIU/0.jpg)](https://www.youtube.com/watch?v=wQxj20X-tIU)  
+   
+* Today I received Maggie's email from Kaggle. I believe Maggie is a magician because she knows the type of competition I love to participate such as plant diseases after reading her email I feel warm and a little smile blushing in my face Kaggle is a warm place continue reading Kaggle:
+   * [University of Liverpool - Ion Switching
+Identify the number of channels open at each time point](https://www.kaggle.com/c/liverpool-ion-switching)  
+   * [Herbarium 2020 - FGVC7
+Identify plant species from herbarium specimens. Data from New York Botanical Garden](https://www.kaggle.com/c/herbarium-2020-fgvc7)  
+   * [Plant Pathology 2020 - FGVC7
+Identify the category of foliar diseases in apple trees](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/overview)  
+   * [Semi-Supervised Recognition Challenge - FGVC7
+Semi-Supervised challenge on iNaturalist Aves, this is part of the FGVC7 workshop at CVPR 2020](https://www.kaggle.com/c/semi-inat-2020/overview)
+   * [iWildCam 2020 - FGVC7
+Categorize animals in the wild](https://www.kaggle.com/c/iwildcam-2020-fgvc7)
