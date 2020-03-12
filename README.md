@@ -1028,7 +1028,7 @@ Categorize animals in the wild](https://www.kaggle.com/c/iwildcam-2020-fgvc7)
 * Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program think each application use case.
 * Continue reading my 1st review and fixing Memory Management Chatbot project from C plus plus Nanodegree program. 
 * Today I received Team Kaggle's email about Novel Corona Virus 2019 Dataset
-Day level information on covid-19 affected cases. I found that humankind are good because a lot of people help with analysis this dataset to understand the trend of our Mother Nature. Continue reading Kaggle:
+Day level information on covid-19 affected cases. I found that humankind is good because a lot of people help with analyzing this dataset to understand the trend of our Mother Nature. Continue reading Kaggle:
    * [Novel Corona Virus 2019 Dataset
 Day level information on covid-19 affected cases](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/kernels) 
    * [Deepfake Detection Challenge Identify videos with facial or voice manipulations](https://www.kaggle.com/c/deepfake-detection-challenge)
