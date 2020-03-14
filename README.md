@@ -31,6 +31,8 @@ Participation in the Intel Edge AI Udacity Scholarship 30 days of Udacity challe
 [image27]: ./images/selfie.png
 [image28]: ./images/chatbot.gif  
 [image29]: ./images/mosquito_eggs.png  
+[image30]: ./images/1.png
+[image31]: ./images/2.png
 
 Collaborators:  
 
@@ -1038,5 +1040,10 @@ Day level information on covid-19 affected cases](https://www.kaggle.com/sudalai
 * Reading the research references provided by the Intel® Edge AI Scholarship Foundation Course Nanodegree Program think each application use case.
 * Reading C plus plus Nanodegree program 5. Concurrency Lesson 2 Passing data between thread section 2 Promises and Futures.
 * Continue reading my 1st review and fixing Memory Management Chatbot project from C plus plus Nanodegree program. 
-* Today I improved the results of applying deep learning for disease control which is one of my production items. I am a little bit exciting and passionately waiting myself finish implement the state of the art research references pipeline. 
+* Today I improved the results of applying deep learning for disease control which is one of my production items. I am a little bit exciting and passionately waiting myself finish implement the state of the art research references pipeline.  
+
+| Before        | After |
+| ------------- | ------------- |
+| ![][image30]  | ![][image31]  |  
+
 * Last day of the Intel® Edge AI Scholarship, Thank you Udacity, I really love this course materials :smile:! Because of this scholarship, I found what I want to implement for C plus plus Nanodegree program Capstone. I can feel it inside my heart.
